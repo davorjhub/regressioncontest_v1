@@ -1,0 +1,501 @@
+CustomerID,Title,FirstName,MiddleName,LastName,Suffix,AddressLine1,AddressLine2,City,StateProvinceName,CountryRegionName,PostalCode,PhoneNumber,BirthDate,Education,Occupation,Gender,MaritalStatus,HomeOwnerFlag,NumberCarsOwned,NumberChildrenAtHome,TotalChildren,YearlyIncome
+14221,,Glenn,C,Zhao,,16 Heron Ct.,,St. Leonards,New South Wales,Australia,2065,1 (11) 500 555-0188,4/5/1972,Bachelors ,Professional,M,S,0,3,0,0,132091
+17510,,Jason,,Butler,,3608 Sinclair Avenue,,Sunbury,Victoria,Australia,3429,1 (11) 500 555-0130,9/23/1955,High School,Skilled Manual,M,S,1,2,0,2,105794
+26229,,Cara,L,Ye,,Celler Weg 2949,,Hamburg,Hamburg,Germany,20354,1 (11) 500 555-0196,4/28/1971,High School,Manual,F,S,0,1,0,0,31468
+15935,Ms.,Amber,S,King,,3864 Citrus Avenue,,Beaverton,Oregon,United States,97005,217-555-0152,10/28/1933,Graduate Degree,Management,F,M,0,2,0,3,97973
+16152,,Katherine,E,Evans,,560 Nottingham Place,,San Gabriel,California,United States,91776,465-555-0186,11/16/1958,Graduate Degree,Professional,F,M,1,0,4,5,84265
+26130,,Ronnie,,Liu,,6314 Minute Dr.,,Hobart,Tasmania,Australia,7001,1 (11) 500 555-0117,11/13/1964,Bachelors ,Professional,M,M,1,3,4,4,86449
+21815,,Gabrielle,M,Green,,4925 Mariposa Ct.,,Shawnee,British Columbia,Canada,V8Z 4N5,143-555-0148,5/5/1952,High School,Professional,F,S,1,2,1,2,77023
+15814,,Monica,J,Subram,,2098 Chilpancingo Pkwy.,,Burlingame,California,United States,94010,230-555-0113,4/16/1976,High School,Skilled Manual,F,S,1,1,0,0,39200
+15667,,Hector,,Ramos,,Parkstr 4256,Kreditorenbuchhaltung,Paderborn,Hamburg,Germany,33041,1 (11) 500 555-0116,9/17/1970,Bachelors ,Clerical,M,M,1,0,0,0,55512
+22860,,Cedric,B,Kumar,,8939 Monetary Way,,Hawthorne,Queensland,Australia,4171,1 (11) 500 555-0112,5/27/1970,High School,Management,M,M,1,4,5,5,113784
+21668,,Christina,F,Rogers,,4929 Relis Valley Road,,Bury,England,United Kingdom,PE17,1 (11) 500 555-0128,9/11/1973,Bachelors ,Skilled Manual,F,M,1,1,1,1,41352
+18592,,Mackenzie,,Evans,,9883 Sierra Rd,,Milwaukie,Oregon,United States,97222,414-555-0162,9/9/1965,Bachelors ,Skilled Manual,F,S,1,2,3,3,98949
+19844,,Emma,,Murphy,,3754 Alray Drive,,Oak Bay,British Columbia,Canada,V8P,831-555-0134,9/3/1943,Bachelors ,Management,F,M,1,2,0,5,93175
+25863,,Sydney,S,Wright,,4193 E. 28th Street,,Lebanon,Oregon,United States,97355,285-555-0113,12/3/1946,High School,Professional,F,S,1,3,0,5,45049
+29470,,Nathan,,Roberts,,"29, boulevard Beau Marchais",,Drancy,Seine Saint Denis,France,93700,1 (11) 500 555-0111,8/25/1960,High School,Manual,M,S,0,1,1,1,28464
+11830,,Taylor,N,Garcia,,6986 Ida Ave.,,Lincoln Acres,California,United States,91950,301-555-0163,1/15/1969,Graduate Degree,Professional,F,M,1,0,0,3,119289
+15952,,Evan,J,Cooper,,2944 Shuey Ave.,,Sedro Woolley,Washington,United States,98284,558-555-0127,6/20/1956,Partial College,Professional,M,M,0,0,1,2,120179
+22694,,Molly,N,Kapoor,,Westheimer Straße 9,,Duesseldorf,Hessen,Germany,40434,1 (11) 500 555-0163,1/6/1978,Partial College,Clerical,F,S,1,2,3,3,47392
+24527,,Gavin,,Coleman,,5095 Chablis Way,,Santa Cruz,California,United States,95062,158-555-0176,7/6/1967,Graduate Degree,Management,M,M,1,0,1,1,175959
+23230,,Mya,M,Foster,,4167 Whitehall Drive,,Watford,England,United Kingdom,WA3,1 (11) 500 555-0116,3/3/1971,High School,Manual,F,S,0,1,0,0,40693
+21204,,Candice,I,Lu,,7876 Clinton Dr,,Melton,Victoria,Australia,3337,1 (11) 500 555-0174,8/23/1966,Bachelors ,Professional,F,S,0,1,0,0,103518
+14922,,Paige,R,Perry,,3359 Northwood Dr,,Tacoma,Washington,United States,98403,636-555-0197,9/14/1959,Graduate Degree,Skilled Manual,F,S,0,0,0,4,70324
+24118,,Donna,,Chande,,"34, rue Lauriston",,Paris La Defense,Hauts de Seine,France,92081,1 (11) 500 555-0167,3/16/1977,Partial College,Clerical,F,M,0,1,0,0,48425
+11872,,Faith,L,Patterson,,1141 Rolling Hill Way,,Glendale,California,United States,91203,148-555-0143,7/21/1967,Graduate Degree,Professional,F,S,0,1,0,0,94365
+15891,,Jordan,,Lopez,,626 Bentley Street,,La Jolla,California,United States,92806,463-555-0181,6/11/1947,Bachelors ,Management,M,M,0,1,1,4,97527
+17088,,Wayne,V,Yuan,,"19, rue de l´Esplanade",,Paris,Seine (Paris),France,75019,1 (11) 500 555-0137,8/1/1972,Partial High School,Manual,M,S,1,2,0,0,26608
+23347,,Eddie,,Carlson,,5890 Yosemite Circle,,Hawthorne,Queensland,Australia,4171,1 (11) 500 555-0198,11/22/1959,Bachelors ,Management,M,M,1,3,1,1,120136
+29413,,Arthur,T,Garcia,,"9, avenue du Président-Kennedy",,Roissy en Brie,Seine et Marne,France,77680,1 (11) 500 555-0179,9/7/1978,Partial College,Clerical,M,M,1,2,3,3,47349
+15239,,Sergio,D,Rodriguez,,6140 Mt. Whitney Way,,Townsville,Queensland,Australia,4810,1 (11) 500 555-0119,9/7/1956,Partial College,Skilled Manual,M,M,1,1,0,1,95237
+16886,,Aidan,,Flores,,6868 Thornhill Place,,Portland,Oregon,United States,97205,417-555-0130,10/19/1954,Partial High School,Skilled Manual,M,M,1,2,0,2,86110
+22544,,Maria,,Evans,,6287 Strasbourg Lane,,Royal Oak,British Columbia,Canada,V8X,486-555-0199,10/3/1972,Graduate Degree,Skilled Manual,F,M,1,0,0,1,57694
+24049,,Byron,,Gomez,,Heideweg 6457,,Neunkirchen,Saarland,Germany,66578,1 (11) 500 555-0173,9/16/1968,Partial College,Manual,M,S,1,0,1,1,24702
+28684,,Kristi,A,Saunders,,Zollstr 62,,München,Hamburg,Germany,80074,1 (11) 500 555-0187,12/12/1970,High School,Manual,F,M,1,0,2,2,14015
+19652,,Douglas,W,Rodriguez,,3509 Hanson Lane,,Melton,Victoria,Australia,3337,1 (11) 500 555-0135,11/16/1942,Bachelors ,Management,M,S,1,2,0,2,73490
+23880,,Noah,L,Patterson,,1077 Laurel Drive,,Long Beach,California,United States,90802,982-555-0111,1/25/1966,Graduate Degree,Professional,M,S,1,0,0,0,119758
+13394,,Matthew,L,Clark,,1400 Gibrix Drive,,Beaverton,Oregon,United States,97005,544-555-0139,3/15/1951,High School,Professional,M,S,1,2,1,2,91040
+23502,,Logan,,Lopez,,6302 Pinewood Court,,Los Angeles,California,United States,90012,317-555-0150,9/7/1936,Graduate Degree,Management,M,M,1,4,3,3,184228
+16540,,Theodore,L,Browning,,Heidestieg Straße 2664,,Salzgitter,Hessen,Germany,38231,1 (11) 500 555-0196,9/15/1960,Partial College,Manual,M,M,1,0,1,1,30362
+20918,,Neil,,Ramos,,"40, rue Royale",,Boulogne-sur-Mer,Pas de Calais,France,62200,1 (11) 500 555-0131,11/3/1964,Partial College,Clerical,M,M,0,2,2,2,48867
+29108,,Seth,E,Evans,,6675 Logan Ct,,El Cajon,California,United States,92020,894-555-0175,6/22/1975,Partial College,Skilled Manual,M,S,0,2,0,0,87652
+12579,,Lydia,S,Sanchez,,480 W. Holly Drive,,Springwood,New South Wales,Australia,2777,1 (11) 500 555-0177,9/10/1978,Partial College,Manual,F,S,1,1,0,0,24966
+11532,,Lauren,,Miller,,6437 Brookview Dr.,,Redmond,Washington,United States,98052,827-555-0183,2/26/1957,Partial College,Clerical,F,M,1,1,0,1,35124
+22426,,Heather,,Zhu,,"51, rue Henri Gagnon",,Sèvres,Hauts de Seine,France,92310,1 (11) 500 555-0199,8/11/1960,Graduate Degree,Clerical,F,M,1,0,0,3,75146
+25962,,Jordyn,J,Jenkins,,2383 Mt. Davidson Court,,Lynnwood,Washington,United States,98036,375-555-0183,1/28/1973,Bachelors ,Management,F,S,0,1,0,0,105954
+28884,,Sheila,,Suarez,,4576 Almond Street,,York,England,United Kingdom,Y03 4TN,1 (11) 500 555-0176,10/3/1956,High School,Professional,F,S,0,4,3,3,125648
+15412,,Ryan,A,Griffin,,2599 Amaranth Way,,Coronado,California,United States,92118,497-555-0186,6/14/1937,Graduate Degree,Management,M,M,1,3,3,3,166909
+25693,,Brandy,,Subram,,"14, rue Faubourg St Antoine",,Croix,Nord,France,59170,1 (11) 500 555-0147,8/22/1962,Graduate Degree,Clerical,F,S,1,0,0,5,56930
+11298,,Jon,,Luo,,3560 River Rock Lane,,Chula Vista,California,United States,91910,127-555-0189,3/3/1935,Graduate Degree,Management,M,M,1,2,0,4,112116
+16040,,Casey,,Gill,,"172, rue Basse-du-Rocher",,Paris,Seine (Paris),France,75008,1 (11) 500 555-0154,10/7/1962,Graduate Degree,Clerical,M,M,1,0,0,1,51776
+17250,,Alicia,W,She,,9665 Geneva Ave.,,Sunbury,Victoria,Australia,3429,1 (11) 500 555-0191,3/13/1972,Partial High School,Professional,F,M,1,4,5,5,130318
+22097,,David,A,Anderson,,4683 Tuolumne Way,,Victoria,British Columbia,Canada,V8V,834-555-0113,5/8/1935,Partial College,Professional,M,M,1,2,0,3,62522
+14148,,Shaun,L,Sharma,,Unter Linden 924,,Kassel,Hessen,Germany,34117,1 (11) 500 555-0121,3/12/1958,Graduate Degree,Clerical,M,M,1,0,0,1,65685
+13411,,Jacquelyn,,Blanco,,3894 Dennis Circle,,Berks,England,United Kingdom,SL4 1RH,1 (11) 500 555-0116,7/3/1955,Partial College,Professional,F,M,0,3,4,4,132923
+24819,,Jack,T,Shan,,2588 Wellington Ct,,Issaquah,Washington,United States,98027,602-555-0122,8/16/1969,Graduate Degree,Professional,M,M,1,0,0,5,114944
+22761,,Eduardo,W,Price,,9830 Santa Ana Dr.,,Renton,Washington,United States,98055,737-555-0178,9/9/1948,Partial College,Professional,M,S,1,1,1,2,93777
+22331,,Michele,L,Yuan,,8074 Oakmead,,Chula Vista,California,United States,91910,598-555-0156,9/20/1929,Partial College,Clerical,F,M,0,2,0,2,46414
+22758,,Katherine,M,Jackson,,3917 Fern Leaf Lane,,Corvallis,Oregon,United States,97330,881-555-0135,5/20/1948,Partial College,Professional,F,S,0,1,1,2,86535
+11685,,Jose,A,Griffin,,4769 Book Ct,,Milwaukie,Oregon,United States,97222,789-555-0114,2/7/1965,Bachelors ,Professional,M,M,0,1,0,0,64803
+15642,,Cara,B,Gao,,8420 Dayton Court,,Melbourne,Victoria,Australia,3000,1 (11) 500 555-0187,8/24/1977,High School,Manual,F,S,1,2,0,0,18375
+18426,,Luke,,Gonzales,,3519 Brookside Drive,,Fremont,California,United States,94536,660-555-0153,3/24/1953,Graduate Degree,Management,M,M,1,2,0,3,117256
+26527,,Oscar,,Hayes,,5897 Scottsdale Rd.,,Burnaby,British Columbia,Canada,V3J 6Z3,150-555-0146,9/9/1952,Partial High School,Skilled Manual,M,M,1,2,1,2,84865
+17913,,Lacey,S,Xu,,9846 Golf Club Road,,Sunbury,Victoria,Australia,3429,1 (11) 500 555-0117,3/3/1976,High School,Manual,F,S,0,0,1,1,24154
+26610,,Mary,,Perez,,8343 Chilpancingo Pkwy.,,Newport Beach,California,United States,92625,271-555-0116,11/9/1962,Partial College,Skilled Manual,F,M,1,1,0,1,77922
+16161,,Jodi,,Deng,,3570 Book Ct,,Hobart,Tasmania,Australia,7001,1 (11) 500 555-0117,8/24/1968,Bachelors ,Professional,F,M,1,1,2,2,82544
+25380,,Seth,D,Gonzales,,2560 B Eagle Peak Rd.,,Tacoma,Washington,United States,98403,805-555-0145,8/9/1972,Graduate Degree,Skilled Manual,M,M,1,0,0,1,118362
+28125,,Dalton,,Jackson,,6598 Hargate Court,,Fremont,California,United States,94536,598-555-0113,9/22/1975,Partial College,Skilled Manual,M,M,1,2,0,0,70872
+14679,,Natasha,,Suarez,,8994 Richard Ave.,,Seaford,Victoria,Australia,3198,1 (11) 500 555-0183,10/16/1966,Bachelors ,Professional,F,S,1,3,5,5,98038
+17269,,Kevin,,Russell,,1029 Birchwood Dr,,Olympia,Washington,United States,98501,131-555-0124,11/14/1958,Bachelors ,Professional,M,S,0,0,2,3,111641
+13768,,Ross,B,Munoz,,"10, rue Royale",,Courbevoie,Hauts de Seine,France,92400,1 (11) 500 555-0181,4/20/1968,Graduate Degree,Clerical,M,M,1,0,0,0,77781
+11158,,Jason,K,Wright,,6771 Bundros Court,,San Gabriel,California,United States,91776,694-555-0176,10/8/1975,High School,Skilled Manual,M,S,1,2,0,0,57274
+16364,,Shawna,D,Yuan,,4683 Joseph Ave,,Chula Vista,California,United States,91910,159-555-0133,5/11/1955,Partial College,Clerical,F,M,1,1,0,1,60489
+19308,,Casey,M,Rai,,6206 Heavenly Drive,,London,England,United Kingdom,SW19 3RU,1 (11) 500 555-0118,4/18/1968,Bachelors ,Clerical,F,M,1,0,0,1,59894
+18567,,Madison,,Barnes,,2975 Roslyn Road,,San Gabriel,California,United States,91776,625-555-0162,1/4/1967,Bachelors ,Skilled Manual,F,S,1,1,2,2,48236
+11231,,Dennis,,Zhang,,3951 Calle Verde Drive,,Bremerton,Washington,United States,98312,710-555-0134,11/14/1952,High School,Professional,M,M,1,2,1,2,82678
+14354,,Seth,,Green,,8206 H Street,,San Carlos,California,United States,94070,153-555-0188,7/28/1974,Partial College,Skilled Manual,M,S,0,1,0,0,57478
+27952,,Roy,,Perez,,Haberstr 900,,Essen,Hamburg,Germany,45001,1 (11) 500 555-0124,6/21/1952,High School,Professional,M,M,0,2,1,4,111337
+28074,,Justin,,Davis,,4601 San Ramon Road,,Vancouver,British Columbia,Canada,V7L 4J4,188-555-0144,4/25/1967,Bachelors ,Management,M,M,0,2,0,1,121905
+18703,,Vincent,A,Huang,,6897 Deerfield Dr.,,Hawthorne,Queensland,Australia,4171,1 (11) 500 555-0119,9/10/1967,Bachelors ,Professional,M,S,0,1,2,2,116978
+19529,,Bailey,A,Parker,,4507 Kenmore,,Spokane,Washington,United States,99202,604-555-0112,8/9/1967,Graduate Degree,Professional,F,S,0,1,0,0,86876
+27779,,Jordan,,Washington,,"1861, boulevard Beau Marchais",,Chatou,Yveline,France,78400,1 (11) 500 555-0183,2/26/1965,Partial High School,Manual,M,M,1,2,3,5,18907
+16635,,Erick,,Suri,,101 Adobe Dr,,Coffs Harbour,New South Wales,Australia,2450,1 (11) 500 555-0115,2/14/1970,Partial High School,Professional,M,M,1,4,5,5,113282
+13815,,Lacey,,Lin,,6199 Mcelroy,,London,England,United Kingdom,E17 6JF,1 (11) 500 555-0124,11/2/1979,Partial College,Clerical,F,S,1,2,3,3,50367
+21819,,Chloe,S,Howard,,"2, rue Pierre-Demoulin",,Tremblay-en-France,Seine Saint Denis,France,93290,1 (11) 500 555-0116,11/2/1957,Partial College,Professional,F,M,1,3,4,4,139109
+23919,,Jordan,,Parker,,"1001bis, boulevard Saint Germain",,Roubaix,Nord,France,59100,1 (11) 500 555-0160,7/16/1932,High School,Manual,F,M,1,2,0,4,17314
+11821,,Austin,,Johnson,,6569 Endriss,,Beverly Hills,California,United States,90210,163-555-0134,4/15/1966,Graduate Degree,Professional,M,M,1,0,0,0,110875
+11349,,Mindy,J,Luo,,Brunnenstr 7566,Verkaufsabteilung,München,Hessen,Germany,80074,1 (11) 500 555-0194,9/3/1954,Partial College,Manual,F,M,1,1,0,2,21535
+19166,,Olivia,,Jenkins,,7254 Buchanan Road,,San Gabriel,California,United States,91776,157-555-0150,12/15/1968,Bachelors ,Professional,F,S,0,1,0,0,88650
+28413,,Dalton,M,Martinez,,7025 Eastgate Avenue,,Gateshead,England,United Kingdom,GA10,1 (11) 500 555-0177,3/12/1976,Partial High School,Manual,M,M,1,2,0,0,15283
+20460,,Wesley,,Zeng,,2321 Wilson Ln.,,North Sydney,New South Wales,Australia,2055,1 (11) 500 555-0119,3/26/1959,Bachelors ,Management,M,M,1,1,2,2,162101
+11776,,Seth,A,Mitchell,,8125 Westbury Drive,,Santa Cruz,California,United States,95062,171-555-0140,7/3/1973,Graduate Degree,Skilled Manual,M,M,1,0,0,1,80691
+15317,,Rachel,R,Jenkins,,7296 Seawind Dr.,,Burlingame,California,United States,94010,836-555-0114,5/20/1947,Bachelors ,Management,F,M,1,3,0,5,88852
+16933,,Donald,B,Arun,,2461 Stephine Way,,Billericay,England,United Kingdom,CM11,1 (11) 500 555-0140,7/22/1962,Graduate Degree,Manual,M,S,1,0,0,1,31639
+23426,,Mathew,,Ferrier,,4328 Liscome Way,,North Sydney,New South Wales,Australia,2055,1 (11) 500 555-0131,8/20/1966,Graduate Degree,Management,M,S,1,3,5,5,147023
+22730,,Timothy,L,Perez,,7711 Fieldcrest Dr.,,Royal Oak,British Columbia,Canada,V8X,967-555-0112,2/14/1943,Bachelors ,Management,M,M,1,2,0,5,103861
+23702,,Eduardo,C,James,,9781 Bermad Dr.,,Coronado,California,United States,92118,836-555-0168,8/4/1946,High School,Professional,M,M,1,3,0,5,62369
+24786,,Haley,M,Adams,,8571 Mehaffey Way,,Port Hammond,British Columbia,Canada,V6B 3P7,665-555-0117,1/24/1970,Bachelors ,Skilled Manual,F,M,1,0,1,1,50938
+17905,,Calvin,,Yuan,,8577 La Vista Avenue,,North Ryde,New South Wales,Australia,2113,1 (11) 500 555-0151,7/20/1980,Partial College,Manual,M,M,1,1,0,0,15619
+18961,,Jeremiah,D,Henderson,,6075 Lake Nadine Pl.,,Shawnee,British Columbia,Canada,V8Z 4N5,162-555-0111,9/5/1962,Bachelors ,Professional,M,S,1,1,0,1,109275
+27040,Mr.,Paul,,Singh,,371 Westwood Court,,Burbank,Ohio,United States,44214,390-555-0100,6/6/1957,Partial High School,Clerical,M,M,1,2,1,2,21380
+19143,,Lauren,C,Long,,2639 Anchor Court,,Edmonds,Washington,United States,98020,679-555-0118,7/10/1965,Bachelors ,Skilled Manual,F,S,1,2,3,3,104428
+12250,,Andrea,,Collins,,8946 Turning View,,Brisbane,Queensland,Australia,4000,1 (11) 500 555-0151,4/8/1977,High School,Manual,F,S,0,0,1,1,30356
+22164,,Destiny,,Morris,,8166 Starflower Dr,,Spring Valley,California,United States,91977,385-555-0163,8/24/1977,Partial College,Skilled Manual,F,S,0,2,0,0,75355
+18520,,Rafael,D,Huang,,4124 Escobar St,,Chula Vista,California,United States,91910,100-555-0197,11/27/1965,Bachelors ,Management,M,M,1,3,2,2,163260
+20525,,James,,Kumar,,9737 Boxwood Dr,,Bellflower,California,United States,90706,986-555-0139,8/22/1949,Bachelors ,Management,M,M,1,0,1,2,102453
+17522,,Reginald,K,Sanz,,4074 Northwood Dr,,Hervey Bay,Queensland,Australia,4655,1 (11) 500 555-0162,3/2/1959,Bachelors ,Management,M,M,1,1,2,4,166238
+19544,,Katherine,R,Price,,9610 Moccasin Ct,,Spring Valley,California,United States,91977,241-555-0125,3/8/1959,Graduate Degree,Professional,F,M,1,3,5,5,101871
+11729,,Caleb,,Campbell,,1895 San Carlos Ave.,,Kirkland,Washington,United States,98033,459-555-0187,5/6/1960,Partial College,Skilled Manual,M,M,1,1,0,1,79153
+23086,,Tracy,W,Lal,,9830 Santa Ana Dr.,,South Melbourne,Victoria,Australia,3205,1 (11) 500 555-0175,9/9/1948,Partial High School,Clerical,F,M,1,2,1,2,30948
+18327,,Jon,L,Sharma,,7104 May Way,,Berkeley,California,United States,94704,587-555-0148,1/24/1977,Partial High School,Clerical,M,S,1,2,0,0,48939
+24505,,Clifford,,Gonzalez,,8612 Pembrook Court,,Perth,South Australia,Australia,6006,1 (11) 500 555-0161,12/11/1943,Bachelors ,Management,M,M,1,2,0,2,72663
+26507,,Abhijit,,Thakur,,7806 Bentley St.,,Burien,Washington,United States,98168,185-555-0194,2/2/1949,Partial College,Professional,F,M,1,2,1,2,88758
+13059,,Keith,,Deng,,4551 Thistle Circle,,Colma,California,United States,94014,439-555-0122,2/15/1975,High School,Skilled Manual,M,M,1,2,0,0,46737
+24096,,Diana,,Vazquez,,"88, rue de l´Esplanade",,Roissy en Brie,Seine et Marne,France,77680,1 (11) 500 555-0116,9/22/1934,Bachelors ,Skilled Manual,F,M,1,1,0,1,59816
+18189,,Nancy,,Mehta,,5021 Rio Grande Drive,,Silverwater,New South Wales,Australia,2264,1 (11) 500 555-0161,10/21/1976,Bachelors ,Professional,F,M,1,2,0,0,63731
+14821,,Maurice,,Raje,,494 North Spoonwood Court,,Stoke-on-Trent,England,United Kingdom,AS23,1 (11) 500 555-0178,4/8/1964,Bachelors ,Skilled Manual,M,M,1,0,0,1,40311
+13522,,Logan,,Taylor,,988 Mt. Everest Court,,Geelong,Victoria,Australia,3220,1 (11) 500 555-0120,11/23/1977,High School,Manual,M,S,1,2,0,0,13521
+22552,Ms.,Andrea,,Rusko,,"4, avenue des Ternes",,Pantin,Seine Saint Denis,France,93500,587-555-0100,9/9/1962,Graduate Degree,Clerical,F,S,0,0,0,1,33097
+12396,,Susan,E,Yang,,Erftplatz 900,,Hof,Bayern,Germany,95010,1 (11) 500 555-0175,4/14/1971,High School,Manual,F,S,1,1,0,0,39795
+24471,,Ricardo,L,Chande,,3994 Pinecrest Court,,Cranbourne,Victoria,Australia,3977,1 (11) 500 555-0136,6/3/1964,Bachelors ,Professional,M,S,0,1,0,0,84418
+12951,,Blake,,Simmons,,1680 I St.,,W. Linn,Oregon,United States,97068,639-555-0126,12/6/1963,Bachelors ,Professional,M,S,0,1,0,0,76957
+13885,,Brian,S,Howard,,5137 Heritage Oaks,,Tacoma,Washington,United States,98403,603-555-0194,5/8/1970,Graduate Degree,Professional,M,S,1,0,0,3,105525
+21047,,Sheena,,Andersen,,Galeriestr 6267,,Poing,Saarland,Germany,66041,1 (11) 500 555-0118,1/27/1968,Partial College,Manual,F,S,0,0,1,1,24911
+24760,,Julian,L,Coleman,,7144 Flagstone Way,,Woodburn,Oregon,United States,97071,543-555-0181,8/6/1959,Partial College,Clerical,M,S,1,1,0,2,62062
+15519,,Jennifer,K,Evans,,600 Lake Place,,Beaverton,Oregon,United States,97005,944-555-0134,11/10/1921,Partial High School,Clerical,F,M,0,2,0,4,19471
+16346,,Marc,,Navarro,,2324 Cherry Street,,Milsons Point,New South Wales,Australia,2061,1 (11) 500 555-0116,6/14/1953,Partial College,Skilled Manual,M,M,0,2,0,3,52094
+17138,,Melanie,,Jenkins,,8741 Crow Street,,El Cajon,California,United States,92020,314-555-0174,7/8/1946,Bachelors ,Management,F,S,1,2,0,4,90050
+21833,,Terrance,B,Gonzalez,,Marienplatz 33651,,Duesseldorf,Hessen,Germany,40605,1 (11) 500 555-0168,6/19/1944,Partial College,Professional,M,S,0,2,0,5,123744
+11835,,Elijah,M,Russell,,1592 Working Drive,,Metchosin,British Columbia,Canada,V9,188-555-0159,6/19/1965,Bachelors ,Skilled Manual,M,S,1,2,3,3,124539
+25683,,Ebony,,Ruiz,,"57, rue de l´Avenir",,Paris,Seine (Paris),France,75003,1 (11) 500 555-0122,8/25/1970,Graduate Degree,Manual,F,S,0,0,0,0,35642
+26528,,Samuel,,Garcia,,2773 Bonifacio Street,,Edmonds,Washington,United States,98020,130-555-0138,5/4/1953,High School,Professional,M,S,1,2,1,3,99239
+18820,,Alexandria,,Cook,,8048 Rosina Court,,West Covina,California,United States,91791,203-555-0130,2/2/1963,Bachelors ,Management,F,M,1,4,1,1,152490
+19271,,Kristopher,O,Fernandez,,8267 Lavene Way,,Port Macquarie,New South Wales,Australia,2444,1 (11) 500 555-0162,5/15/1978,Bachelors ,Clerical,M,M,1,0,0,0,37971
+23176,,Jesse,A,Ward,,6966 Eaker Way,,San Carlos,California,United States,94070,579-555-0186,5/2/1967,Bachelors ,Skilled Manual,M,M,1,1,2,2,53140
+27694,,Lee,L,Gill,,3573 Holiday Hills,,Wollongong,New South Wales,Australia,2500,1 (11) 500 555-0150,5/17/1962,Bachelors ,Professional,M,M,1,1,0,1,99415
+27359,,Morgan,J,Davis,,9306 Green Street,,Warrnambool,Victoria,Australia,3280,1 (11) 500 555-0158,3/23/1972,High School,Management,F,S,1,3,5,5,94749
+28367,,Jerome,,Johnsen,,692 Brook Way,#1988,Bury,England,United Kingdom,PE17,1 (11) 500 555-0194,3/11/1967,Partial College,Manual,M,S,0,1,1,1,18807
+23261,,Jada,,Peterson,,201 Bush Avenue,,Issaquah,Washington,United States,98027,682-555-0187,4/19/1955,High School,Clerical,F,S,0,2,0,2,48480
+17140,,Sean,R,Peterson,,216 Smoking Tree Court,,Redmond,Washington,United States,98052,732-555-0124,5/9/1947,Partial College,Professional,M,M,1,1,1,2,98324
+19598,,Kaitlyn,,Powell,,9032 Santa Fe,,Sydney,New South Wales,Australia,1002,1 (11) 500 555-0180,12/9/1962,Bachelors ,Professional,F,M,1,1,0,1,73090
+11848,,Joshua,C,Lewis,,7166 Brock Lane,,Yakima,Washington,United States,98901,365-555-0198,2/28/1964,Bachelors ,Skilled Manual,M,M,1,2,2,4,62985
+27966,,Jenny,,Chen,,"3738, chaussée de Tournai",,Les Ulis,Essonne,France,91940,1 (11) 500 555-0178,2/13/1948,High School,Management,F,S,1,4,1,5,96181
+28988,,Harold,C,Perez,,5592 Byers Rd.,,Colma,California,United States,94014,104-555-0162,2/22/1944,Partial High School,Clerical,M,S,0,2,0,5,39788
+17343,,Tristan,L,Price,,6462 Grant St.,,Yakima,Washington,United States,98901,554-555-0160,10/14/1978,Partial High School,Clerical,M,S,0,2,0,0,42984
+25502,,Carmen,,Kim,,594 Tossing Way,,London,England,United Kingdom,SW8 1XD,1 (11) 500 555-0115,1/1/1963,Bachelors ,Skilled Manual,F,M,1,0,0,1,44385
+28782,,Cody,,Howard,,9663 Soto Street,,Coronado,California,United States,92118,979-555-0183,3/11/1956,High School,Skilled Manual,M,M,1,2,0,2,56252
+25069,,Lori,,Ortega,,273 Winding Lane,,Burien,Washington,United States,98168,214-555-0179,11/2/1964,Bachelors ,Skilled Manual,F,M,1,3,4,4,79962
+21060,,Jaclyn,K,Tang,,6459 Maryland Drive,,Newcastle upon Tyne,England,United Kingdom,NT20,1 (11) 500 555-0160,8/21/1967,Bachelors ,Clerical,F,S,0,0,1,1,44929
+27523,,Kayla,E,Martin,,7207 Peabody Road,,Bellingham,Washington,United States,98225,998-555-0163,3/20/1974,High School,Professional,F,S,0,2,0,0,40267
+11780,,Jessica,K,Alexander,,3459 Tri-state Ave,,Edmonds,Washington,United States,98020,617-555-0146,11/20/1971,Graduate Degree,Skilled Manual,F,S,1,0,0,1,79447
+14292,,Isabella,,Ross,,5805 Churchill Dr.,,Concord,California,United States,94519,111-555-0122,9/28/1957,Partial High School,Skilled Manual,F,S,1,2,0,2,63712
+18154,,Calvin,A,She,,Postfach 8 77 99,,Berlin,Nordrhein-Westfalen,Germany,14197,1 (11) 500 555-0119,8/22/1946,Bachelors ,Management,M,S,1,4,3,3,118647
+25432,,Kellie,J,Gomez,,328 Birchbark Pl.,,Camarillo,California,United States,93010,527-555-0197,8/11/1965,Bachelors ,Professional,F,S,0,1,0,0,71458
+14518,,Ann,M,Mehta,,9618 Fall Creek Road,,Caloundra,Queensland,Australia,4551,1 (11) 500 555-0112,11/8/1947,High School,Skilled Manual,F,M,1,2,1,2,29563
+19538,,Connor,E,Hall,,8562 Cynthia Drive,,Olympia,Washington,United States,98501,118-555-0177,4/9/1960,Partial College,Skilled Manual,M,M,0,1,0,1,87392
+24494,,Rafael,A,Zhou,,5013 C Mt. Hood Ct.,,Coffs Harbour,New South Wales,Australia,2450,1 (11) 500 555-0138,3/5/1937,Partial College,Clerical,M,M,0,2,0,2,50063
+25184,,Peter,,Tang,,9094 William Reed Dr,,Colma,California,United States,94014,211-555-0161,3/25/1961,Partial College,Professional,M,S,1,4,3,3,166820
+18882,,Dalton,C,Hayes,,7311 Blackridge Dr.,,Shawnee,British Columbia,Canada,V8Z 4N5,138-555-0196,8/3/1941,Graduate Degree,Management,M,M,0,2,0,5,114649
+19034,,Tabitha,J,Diaz,,Königsteiner Straße 5,,Erlangen,Bayern,Germany,91054,1 (11) 500 555-0146,10/24/1956,High School,Professional,F,S,1,4,4,4,129519
+24475,,Gilbert,,Zhou,,8004 Broadmoor Ave.,,Bendigo,Victoria,Australia,3550,1 (11) 500 555-0174,6/15/1963,Bachelors ,Professional,M,S,0,2,0,0,117187
+13851,,Seth,,Moore,,1059 Delta Fair Blvd.,,Port Hammond,British Columbia,Canada,V6B 3P7,481-555-0125,7/8/1972,Graduate Degree,Skilled Manual,M,S,0,0,0,0,75165
+24771,,Samuel,M,Harris,,3240 Turner Dr.,,Langley,British Columbia,Canada,V3A 4R2,227-555-0165,8/19/1972,Graduate Degree,Skilled Manual,M,M,1,0,0,1,88323
+22297,,Jasmine,A,Garcia,,7583 Green Hill Rd,,Redwood City,California,United States,94063,121-555-0131,8/19/1968,Bachelors ,Professional,F,S,1,1,0,0,85963
+27765,,Jerry,,Tang,,Postfach 22 99 99,,Frankfurt,Bayern,Germany,91480,1 (11) 500 555-0154,7/18/1967,Partial College,Manual,M,S,1,1,1,1,19394
+20714,,Christine,,Beck,,5841 Longview Rd.,,Leeds,England,United Kingdom,LE18,1 (11) 500 555-0185,7/16/1972,Partial High School,Manual,F,S,0,2,0,0,26630
+25345,,Olivia,B,Powell,,5118 Boxwood Dr.,,Mill Valley,California,United States,94941,152-555-0127,2/12/1956,Partial High School,Clerical,F,S,1,2,0,3,34226
+12769,,Thomas,H,Zhang,,994 Counting Drive,,Olympia,Washington,United States,98501,659-555-0155,3/21/1955,Partial College,Clerical,M,M,1,1,0,1,43885
+20755,,Alex,,Lopez,,2236 California St.,,Concord,California,United States,94519,422-555-0151,6/4/1955,Partial College,Clerical,M,M,1,1,0,1,59352
+27671,,Jeremiah,D,Martinez,,9963 Pacific,,Ballard,Washington,United States,98107,400-555-0193,3/4/1953,Graduate Degree,Management,M,S,0,2,0,3,122421
+11077,,Leah,,Ye,,1291 Arguello Blvd.,,Melton,Victoria,Australia,3337,1 (11) 500 555-0154,9/19/1957,High School,Professional,F,S,0,2,0,2,108728
+27183,,Geoffrey,,Garcia,,Dunckerstr 4822,,Hof,Bayern,Germany,95010,1 (11) 500 555-0112,5/9/1971,Partial College,Clerical,M,S,1,1,2,2,52154
+12054,,Luke,,Diaz,,6377 East Avenue,,Newton,British Columbia,Canada,V2M1P1,670-555-0117,6/4/1968,Bachelors ,Management,M,M,1,1,4,4,122833
+19741,,María,R,Rivera,,7914 H St.,#9,Everett,Washington,United States,98201,948-555-0124,11/21/1940,Graduate Degree,Management,F,S,1,2,0,4,116204
+11648,,Kevin,R,Scott,,4414 Kendree St.,,Chula Vista,California,United States,91910,364-555-0111,4/16/1969,Graduate Degree,Professional,M,S,1,0,0,1,126072
+27162,,Phillip,,Madan,,4667 Chilpancingo Pk,,Reading,England,United Kingdom,RG7 5H7,1 (11) 500 555-0123,9/26/1974,Bachelors ,Skilled Manual,M,M,1,0,1,1,55370
+28070,,Ian,A,Morris,,2371 Deerfield Dr.,,Daly City,California,United States,94015,364-555-0127,4/10/1968,Bachelors ,Management,M,S,1,1,0,0,138894
+24320,,Joshua,J,White,,6872 Thornwood Dr.,,Beaverton,Oregon,United States,97005,259-555-0196,8/13/1957,Partial High School,Skilled Manual,M,S,1,2,0,2,84846
+23055,,Seth,,Diaz,,6111 Joan Ave.,,Portland,Oregon,United States,97205,420-555-0171,8/8/1960,Partial College,Professional,M,M,1,0,3,3,105341
+15573,,Thomas,E,Wilson,,6853 Hacienda,,Redmond,Washington,United States,98052,466-555-0174,8/25/1958,Bachelors ,Professional,M,S,0,2,4,5,109628
+18654,,Thomas,A,Lopez,,8574 Hidden Oak Ct.,,Mill Valley,California,United States,94941,429-555-0115,6/18/1955,Partial College,Clerical,M,M,1,1,0,1,58236
+20392,,Destiny,H,Ramirez,,6498 Pasa Del Rio,,Palo Alto,California,United States,94303,961-555-0130,3/11/1940,Bachelors ,Management,F,M,1,2,0,4,104536
+17203,,Christine,W,Raje,,9601 Santa Fe Dr.,,Newcastle upon Tyne,England,United Kingdom,NT20,1 (11) 500 555-0133,2/18/1945,Partial College,Professional,F,M,1,4,4,4,136970
+22082,,Lucas,,Barnes,,6695 Treat Blvd.,,Berkeley,California,United States,94704,605-555-0193,10/23/1961,Bachelors ,Management,M,S,1,3,3,3,156483
+25514,,Dominic,,Martinez,,"14, rue Descartes",,Chatou,Yveline,France,78400,1 (11) 500 555-0179,7/12/1976,High School,Manual,M,S,0,1,0,0,13381
+24147,,Kathleen,,Hernandez,,Höhenstr 6466,,Stuttgart,Saarland,Germany,70452,1 (11) 500 555-0116,10/18/1935,Graduate Degree,Clerical,F,M,0,0,0,1,39085
+11266,,Taylor,,Howard,,7396 Stratton Circle,,Port Orchard,Washington,United States,98366,162-555-0131,5/5/1964,Partial College,Professional,F,S,0,1,0,0,98748
+24252,,Jaclyn,,Xu,,6719 Santa Teresa Dr,,Wollongong,New South Wales,Australia,2500,1 (11) 500 555-0174,11/22/1947,Partial College,Clerical,F,M,0,2,0,2,27624
+24825,,Zoe,L,Sanders,,4256 Ashmount Way,,Vancouver,British Columbia,Canada,V7L 4J4,321-555-0171,4/19/1965,Bachelors ,Skilled Manual,F,M,1,2,3,3,52012
+26083,,Alyssa,,Smith,,324 Mepham Dr.,,San Gabriel,California,United States,91776,751-555-0111,2/5/1962,Partial College,Professional,F,S,0,4,1,1,129459
+22492,,Jorge,,She,,Knaackstr 646,,Solingen,Nordrhein-Westfalen,Germany,42651,1 (11) 500 555-0129,7/24/1964,High School,Manual,M,S,0,0,3,3,32453
+11046,,Christine,,Yuan,,2356 Orange St,,Lavender Bay,New South Wales,Australia,2060,1 (11) 500 555-0113,3/22/1950,High School,Skilled Manual,F,M,1,2,0,3,50798
+15640,,Gary,,Gomez,,4744 Mary Dr.,,Caloundra,Queensland,Australia,4551,1 (11) 500 555-0117,4/16/1980,Partial College,Manual,M,S,1,1,0,0,23549
+11816,,Joe,A,Torres,,8069 Vine Hill Way,,Beverly Hills,California,United States,90210,450-555-0115,10/23/1970,Graduate Degree,Professional,M,M,1,0,0,4,116479
+22922,,Heidi,L,Martinez,,3372 Mobile Lane,,Gold Coast,Queensland,Australia,4217,1 (11) 500 555-0133,7/9/1968,Bachelors ,Professional,F,S,0,1,0,0,80841
+14270,,James,F,Ross,,3099 Morello Court,,La Jolla,California,United States,92806,154-555-0163,1/25/1975,Partial College,Skilled Manual,M,S,0,2,0,0,86475
+14811,,Molly,,Sanchez,,Erftplatz 444,,Leipzig,Nordrhein-Westfalen,Germany,4139,1 (11) 500 555-0188,8/22/1966,Bachelors ,Professional,F,M,1,0,0,0,65947
+12368,,Rodney,L,Rubio,,"40, rue Royale",,Metz,Moselle,France,57000,1 (11) 500 555-0119,6/22/1973,Partial High School,Manual,M,S,0,2,0,0,23727
+12333,,Terrance,V,Rodriguez,,"16, rue des Grands Champs",,Villeneuve-d'Ascq,Nord,France,59491,1 (11) 500 555-0141,11/18/1948,High School,Management,M,M,0,3,1,4,124051
+27625,,Alexandria,W,Hughes,,3407 Oak Brook Place,,Lake Oswego,Oregon,United States,97034,638-555-0128,4/1/1956,Partial College,Professional,F,S,0,0,1,2,98500
+25372,,Carrie,,Torres,,4584 Hamiliton Ave.,,Chandler,Arizona,United States,85225,565-555-0112,11/6/1973,Graduate Degree,Skilled Manual,F,M,1,0,0,1,68775
+20649,,Natalie,,Ramirez,,3200 Wren Ave.,#107,San Gabriel,California,United States,91776,191-555-0178,6/13/1972,Graduate Degree,Professional,F,S,1,0,0,2,95912
+25607,,Sharon,,Chander,,"1199, rue Ste-Honoré",,Sèvres,Hauts de Seine,France,92310,1 (11) 500 555-0174,11/26/1952,Partial College,Manual,F,S,0,1,0,2,22843
+19267,,Marshall,J,Raje,,3101 South Villa Way,,Caloundra,Queensland,Australia,4551,1 (11) 500 555-0146,2/6/1979,Partial College,Manual,M,M,1,1,0,0,22024
+11975,,Destiny,B,Garcia,,1993 South Villa Way,,Chula Vista,California,United States,91910,928-555-0186,10/4/1974,High School,Professional,F,S,0,2,0,0,77538
+15902,,Robert,J,Diaz,,6161 Sanders St.,,Port Orchard,Washington,United States,98366,694-555-0162,4/25/1950,Partial College,Professional,M,M,1,2,1,2,90231
+25828,,Ronald,,Madan,,9677 Elkwood Dr,,Silverwater,New South Wales,Australia,2264,1 (11) 500 555-0180,9/3/1970,Partial High School,Professional,M,M,1,4,5,5,120565
+22735,,Katherine,,Jones,,7040 Santa Fe Street,,Corvallis,Oregon,United States,97330,435-555-0151,6/25/1944,High School,Professional,F,M,1,2,0,4,61997
+27361,,Valerie,L,Yang,,7568 Prestwick Court,,Milsons Point,New South Wales,Australia,2061,1 (11) 500 555-0195,7/11/1971,Bachelors ,Professional,F,S,0,4,0,0,100884
+12349,,Lacey,W,Yuan,,9852 Shirley Dr,,Silverwater,New South Wales,Australia,2264,1 (11) 500 555-0125,7/26/1974,Bachelors ,Professional,F,S,1,3,0,0,110624
+14259,,Antonio,D,Flores,,3891 Garnet Lane,,Melton,Victoria,Australia,3337,1 (11) 500 555-0129,3/3/1953,Partial College,Skilled Manual,M,S,1,2,0,3,58419
+22475,,Heidi,M,Rana,,6578 Woodhaven Ln.,,Berks,England,United Kingdom,SL4 1RH,1 (11) 500 555-0132,12/10/1966,Partial High School,Manual,F,S,1,2,4,5,18992
+29081,,Darren,,Lopez,,5086 Rampo Ct.,,Perth,South Australia,Australia,6006,1 (11) 500 555-0132,3/17/1949,Partial High School,Clerical,M,S,1,2,1,2,17985
+16955,,Nathaniel,,Bradley,,3679 Diablo View Road,,Metchosin,British Columbia,Canada,V9,145-555-0167,8/18/1969,Bachelors ,Skilled Manual,M,M,1,0,2,2,57713
+13363,,Sydney,K,Allen,,7421 Palisade Court,,Woodburn,Oregon,United States,97071,573-555-0126,6/16/1946,Bachelors ,Management,F,M,1,1,1,3,83540
+18725,,Denise,M,Kapoor,,3252 Hamlet,,Hobart,Tasmania,Australia,7001,1 (11) 500 555-0118,10/9/1967,Bachelors ,Professional,F,S,1,0,3,3,111263
+21594,,Brianna,,Moore,,2545 Crowe Place,,Fremont,California,United States,94536,590-555-0112,2/20/1969,Bachelors ,Skilled Manual,F,M,1,0,2,2,57423
+22262,,Marcus,,Collins,,4546 Vista Valley Rd,,Mill Valley,California,United States,94941,995-555-0181,6/5/1967,Bachelors ,Skilled Manual,M,S,1,1,2,2,68884
+22642,,Garrett,,Rivera,,6541 Central Ave.,,Stoke-on-Trent,England,United Kingdom,AS23,1 (11) 500 555-0178,4/24/1967,Partial College,Manual,M,S,0,1,1,1,26399
+26629,,Miranda,,Price,,9397 N. 8th Street,,Metchosin,British Columbia,Canada,V9,367-555-0196,2/6/1960,Partial College,Skilled Manual,F,M,1,1,0,1,58375
+27071,,Anthony,,Clark,,5468 Boxwood Drive,,Newton,British Columbia,Canada,V2M1S6,212-555-0121,1/9/1971,High School,Skilled Manual,M,S,1,3,4,4,54004
+15772,,Christopher,,Anderson,,2216 Blue Ridge Dr.,,San Gabriel,California,United States,91776,993-555-0186,3/13/1957,Partial High School,Skilled Manual,M,M,0,2,0,2,71410
+15028,,Tabitha,,Alvarez,,151 Buchanan Ct,,Warrnambool,Victoria,Australia,3280,1 (11) 500 555-0164,3/10/1980,Partial College,Manual,F,S,0,1,0,0,18779
+19333,,Candace,J,Malhotra,,Auf Der Steige 987,,Kassel,Hessen,Germany,34117,1 (11) 500 555-0152,7/14/1965,Bachelors ,Skilled Manual,F,M,1,2,1,1,52261
+12617,,Jake,G,Ma,,Hansaallee 6,,Hannover,Nordrhein-Westfalen,Germany,30601,1 (11) 500 555-0136,10/5/1969,Partial College,Manual,M,M,0,1,0,0,27798
+12242,,Gilbert,,Liang,,4882 Darlene Drive,,Findon,South Australia,Australia,5023,1 (11) 500 555-0195,2/4/1979,Partial College,Manual,M,S,0,1,0,0,24495
+16026,,Byron,,Jiménez,,3630 Second Avenue,,St. Leonards,New South Wales,Australia,2065,1 (11) 500 555-0199,7/10/1946,Partial College,Clerical,M,M,0,2,0,2,50311
+21377,,Allison,,Bailey,,3177 Lincoln Drive,,Goulburn,New South Wales,Australia,2580,1 (11) 500 555-0185,2/17/1950,Partial High School,Clerical,F,S,1,2,1,2,21909
+20764,,Christian,,Taylor,,7770 Springwood Court,,Royal Oak,British Columbia,Canada,V8X,696-555-0182,1/16/1957,High School,Skilled Manual,M,M,0,2,0,2,66171
+21451,,Jocelyn,,Ross,,6564 Bellwood Dr,,Concord,California,United States,94519,844-555-0175,10/28/1944,High School,Professional,F,M,1,2,0,4,32950
+23949,,Kelvin,R,Deng,,"2, allée des Princes",,Courbevoie,Hauts de Seine,France,92400,1 (11) 500 555-0114,4/7/1976,High School,Manual,M,S,0,1,0,0,17406
+26858,,Samuel,L,Lopez,,7074 N. Spoonwood Court,,Warrington,England,United Kingdom,WA1,1 (11) 500 555-0175,5/8/1965,Bachelors ,Skilled Manual,M,M,1,0,0,1,75062
+28787,,Gabrielle,S,Wood,,1020 Book Road,,Bremerton,Washington,United States,98312,305-555-0199,4/5/1957,Partial High School,Clerical,F,M,0,2,1,2,30647
+29190,,Kaitlin,C,Suri,,9955 Terra Grand,,Rhodes,New South Wales,Australia,2138,1 (11) 500 555-0188,8/11/1969,Graduate Degree,Management,F,S,0,2,0,1,152962
+17747,,Franklin,A,Xie,,5657 Georgia Dr.,,Wokingham,England,United Kingdom,RG41 1QW,1 (11) 500 555-0130,11/19/1960,Graduate Degree,Clerical,M,M,1,0,0,3,73382
+19401,,Kyle,A,Hernandez,,8947 Rio Grande Drive,,Chula Vista,California,United States,91910,611-555-0170,6/12/1967,Graduate Degree,Professional,M,S,0,1,0,0,115871
+11614,,Katrina,M,Sharma,,Nollendorfplatz 62,,Offenbach,Saarland,Germany,63009,1 (11) 500 555-0115,8/17/1975,Partial College,Clerical,F,S,0,1,0,0,29469
+14339,,Brandy,,Suri,,2082 S. Bascom Ave.,,Bellflower,California,United States,90706,121-555-0111,12/2/1977,Partial High School,Clerical,F,S,0,2,0,0,44787
+19595,,Carl,,Raji,,4352 Marclair Dr.,,Seaford,Victoria,Australia,3198,1 (11) 500 555-0179,3/16/1963,Bachelors ,Professional,M,S,0,1,0,0,94319
+20398,,Jordan,,Collins,,7 Zulu Court,,Palo Alto,California,United States,94303,706-555-0165,6/1/1941,Graduate Degree,Management,F,S,1,2,0,5,99864
+28012,,Ian,,Stewart,,8612 Pembrook Court,,Lake Oswego,Oregon,United States,97034,898-555-0150,12/11/1943,Bachelors ,Management,M,S,0,2,0,4,110748
+14175,,Cynthia,,Mehta,,4513 Terry Lynn Lane,,Bury,England,United Kingdom,PE17,1 (11) 500 555-0162,5/20/1945,Bachelors ,Management,F,M,1,4,4,4,122709
+22339,,Richard,,Nelson,,7970 Madrid,,Redmond,Washington,United States,98052,730-555-0154,11/2/1953,High School,Manual,M,M,0,2,0,2,20516
+24342,,Evan,W,Campbell,,9585 Macarthur Ave.,,Sooke,British Columbia,Canada,V0,645-555-0133,4/24/1961,Partial College,Skilled Manual,M,M,1,1,0,1,95779
+13802,,Tina,,Subram,,"26, rue des Grands Champs",,Dunkerque,Nord,France,59140,1 (11) 500 555-0139,4/27/1934,Partial College,Clerical,F,M,1,1,0,2,23065
+28973,,Bryan,,Cooper,,9993 Mt. Hood Circle,,Mill Valley,California,United States,94941,332-555-0170,11/19/1939,Graduate Degree,Management,M,S,0,2,0,3,111707
+29431,,Marie,F,Gutierrez,,156 East Lake Court,,Birmingham,England,United Kingdom,B29 6SL,1 (11) 500 555-0152,9/17/1975,Bachelors ,Skilled Manual,F,M,0,0,1,1,55203
+24032,,Micah,A,Ma,,"36, rue de Cambrai",,Paris,Seine (Paris),France,75009,1 (11) 500 555-0152,5/28/1969,High School,Manual,M,M,1,0,2,2,24752
+26031,,Katrina,P,Kumar,,6838 El Rancho Drive,,Townsville,Queensland,Australia,4810,1 (11) 500 555-0186,5/27/1965,Bachelors ,Professional,F,S,0,1,3,3,75649
+12593,,Benjamin,F,Zhang,,7980 Los Gatos Court,,Bury,England,United Kingdom,PE17,1 (11) 500 555-0134,5/3/1961,Graduate Degree,Clerical,M,S,1,0,0,4,92189
+15529,,Jason,,Allen,,16 Woodside Court,,Lynnwood,Washington,United States,98036,151-555-0119,7/5/1963,Bachelors ,Professional,M,M,1,2,2,4,100090
+16560,,Kelvin,E,Sun,,"387, rue des Berges",,Saint-Denis,Seine Saint Denis,France,93400,1 (11) 500 555-0167,10/14/1970,Bachelors ,Clerical,M,S,1,0,0,0,82158
+25753,,Nichole,P,Lal,,6196 Nottingham Place,,Woolston,England,United Kingdom,WA1 4SY,1 (11) 500 555-0193,8/14/1951,High School,Manual,F,S,0,2,0,3,24779
+16084,,Allison,R,Wright,,4463 Temple Court,,Lake Oswego,Oregon,United States,97034,567-555-0119,11/17/1967,Bachelors ,Professional,F,S,0,1,0,0,58773
+26101,,Phillip,S,Smith,,4914 Sierra Drive,,Bellingham,Washington,United States,98225,827-555-0134,1/13/1936,Graduate Degree,Management,M,M,1,2,0,2,88955
+27291,,Bobby,M,Mehta,,7489 Briowes Valley Rd.,,Burien,Washington,United States,98168,735-555-0115,7/25/1966,Bachelors ,Skilled Manual,M,S,0,1,3,3,125537
+22241,,Alexandria,M,Washington,,1779 Virginia Hills Dr,,Redmond,Washington,United States,98052,617-555-0119,7/2/1970,Bachelors ,Skilled Manual,F,M,1,1,1,1,60613
+28825,,Caleb,A,Hernandez,,9808 Deerfield Dr.,,Renton,Washington,United States,98055,344-555-0121,8/4/1972,Graduate Degree,Skilled Manual,M,M,1,0,0,1,109473
+12653,,Nichole,,Andersen,,811 Mcneil Place,,London,England,United Kingdom,W10 6BL,1 (11) 500 555-0141,1/25/1950,Bachelors ,Management,F,M,1,3,5,5,128031
+18242,,Christine,I,Pal,,9637 Arata Way,,Newcastle,New South Wales,Australia,2300,1 (11) 500 555-0112,7/10/1969,Graduate Degree,Management,F,M,1,0,0,1,112402
+15977,,Julia,T,Harris,,6820 Montego,,Burien,Washington,United States,98168,851-555-0121,3/15/1960,High School,Professional,F,M,1,3,3,4,80521
+21871,,Devin,,Adams,,8590 High Maple Court,,Cranbourne,Victoria,Australia,3977,1 (11) 500 555-0161,11/5/1976,Bachelors ,Professional,M,S,1,3,0,0,99695
+18830,,Kristine,,Ortega,,7581 Alaska Dr.,,Bellflower,California,United States,90706,403-555-0196,9/8/1961,Bachelors ,Management,F,M,1,3,3,3,133833
+29363,,Cristina,R,Jai,,Postfach 22 99 99,,Hamburg,Hamburg,Germany,20354,1 (11) 500 555-0191,12/25/1967,Partial College,Manual,F,S,1,1,1,1,13618
+24974,,Eduardo,,Carter,,9109 Pinetree Court,,Long Beach,California,United States,90802,473-555-0165,6/1/1948,Bachelors ,Management,M,M,1,0,1,2,91362
+26389,,Candice,L,Zhou,,"3887, rue Villedo",,Paris,Seine (Paris),France,75016,1 (11) 500 555-0193,2/17/1955,High School,Professional,F,M,0,4,3,3,106401
+12378,,Brianna,P,Sanchez,,Zeiter Weg 9922,,Ingolstadt,Bayern,Germany,85049,1 (11) 500 555-0164,8/20/1979,Partial College,Clerical,F,S,1,1,0,0,48865
+18480,,Heidi,,Suri,,1542 Orwood Dr,,Burlingame,California,United States,94010,280-555-0183,7/9/1973,Partial College,Professional,F,S,1,2,0,0,68495
+19941,,Cedric,R,Liang,,2023 Flame Drive,,London,England,United Kingdom,W1X3SE,1 (11) 500 555-0192,3/11/1949,High School,Management,M,S,0,4,5,5,164967
+25758,,Leslie,,Gutierrez,,Klara Straße 84,,Hamburg,Hamburg,Germany,20354,1 (11) 500 555-0138,4/7/1968,Partial College,Manual,F,M,0,0,1,1,22401
+23917,,Carrie,,Carlson,,Conesweg 489,,Hamburg,Hamburg,Germany,20354,1 (11) 500 555-0111,4/28/1963,High School,Manual,F,M,1,1,3,3,15034
+26538,,Warren,,Black,,8866 Alpha Way,,Bellflower,California,United States,90706,189-555-0173,11/18/1968,Graduate Degree,Management,M,M,1,3,1,2,180917
+19331,,Jessie,F,Hu,,Hochstr 8777,,Berlin,Hamburg,Germany,14111,1 (11) 500 555-0193,9/3/1965,High School,Manual,M,S,1,1,2,2,12289
+20945,,Roger,M,Tang,,Pflugstr 2565,,München,Nordrhein-Westfalen,Germany,80074,1 (11) 500 555-0112,5/26/1976,Partial College,Clerical,M,S,0,1,0,0,48084
+24906,,Donna,,Raji,,2304 La Canada,# 13,Silverwater,New South Wales,Australia,2264,1 (11) 500 555-0198,6/21/1972,Bachelors ,Professional,F,S,0,3,0,0,116298
+24909,,Grant,C,Yuan,,6924 Santa Barbara,,Springwood,New South Wales,Australia,2777,1 (11) 500 555-0112,12/12/1972,High School,Management,M,M,0,3,5,5,114741
+25708,,Misty,,Sharma,,4764 Gatter Court,,Gold Coast,Queensland,Australia,4217,1 (11) 500 555-0185,7/9/1978,Partial College,Manual,F,S,0,1,0,0,19500
+16095,,Marcus,,Garcia,,137 Mazatlan,,El Cajon,California,United States,92020,582-555-0192,2/11/1966,Graduate Degree,Professional,M,M,1,0,0,4,115182
+13431,,Bryan,E,James,,1278 Sunshine Dr.,,Tacoma,Washington,United States,98403,580-555-0138,8/3/1956,Partial College,Professional,M,M,1,0,2,3,102621
+23965,,Dustin,,Shan,,Postfach 22 99 99,,Frankfurt am Main,Saarland,Germany,60075,1 (11) 500 555-0163,7/26/1962,Graduate Degree,Manual,M,S,0,0,0,1,32222
+14426,,Madison,J,Hughes,,Herzogstr 3998,,Erlangen,Bayern,Germany,91054,1 (11) 500 555-0160,8/23/1957,Partial College,Professional,F,M,1,2,4,4,135346
+25111,,Drew,J,Chander,,2798 Castlewood,,Perth,South Australia,Australia,6006,1 (11) 500 555-0178,10/6/1970,Bachelors ,Professional,M,M,1,0,0,2,128842
+28931,,Darren,W,Jiménez,,9161 Napa St.,,Malabar,New South Wales,Australia,2036,1 (11) 500 555-0159,11/6/1975,Bachelors ,Professional,M,M,1,3,0,0,125743
+21437,,Whitney,,Sara,,7208 Peach Place,,Chula Vista,California,United States,91910,226-555-0111,9/6/1962,Bachelors ,Professional,F,S,0,1,0,1,81046
+28767,,Gilbert,L,Hu,,740 Royal Links Circle,,Cliffside,British Columbia,Canada,V8Y 1L1,733-555-0112,8/27/1975,Partial College,Clerical,M,M,1,2,3,3,50589
+25433,,Zachary,,Kumar,,1907 Pinecrest Dr,,Royal Oak,British Columbia,Canada,V8X,924-555-0122,11/5/1965,Bachelors ,Professional,M,S,0,1,0,0,68937
+23302,,Fernando,R,Walker,,2265 Park Glen Court,,Port Orchard,Washington,United States,98366,218-555-0189,6/16/1979,High School,Skilled Manual,M,S,0,2,0,0,60602
+25836,,Jaime,E,Luo,,6492 Candy Rd,,Berkeley,California,United States,94704,699-555-0112,12/19/1937,Graduate Degree,Management,M,M,1,2,0,3,82517
+26488,,Julia,A,Rodriguez,,8742 Longbrood Way,,Cliffside,British Columbia,Canada,V8Y 1L1,321-555-0114,10/13/1947,High School,Professional,F,M,1,2,1,2,45041
+23197,,Cole,W,Cook,,7165 Foothill Way,,Los Angeles,California,United States,90012,757-555-0155,11/26/1965,Bachelors ,Skilled Manual,M,M,1,2,3,3,81393
+19697,,Isabella,C,Wood,,7941 Cristobal,,Grossmont,California,United States,91941,752-555-0172,5/28/1962,High School,Professional,F,S,1,4,3,3,127633
+16617,,Alvin,M,Xie,,8592 Camelback Ct.,,Warrnambool,Victoria,Australia,3280,1 (11) 500 555-0185,2/6/1974,High School,Management,M,M,1,1,5,5,113343
+18799,,Jacob,K,Lewis,,3114 Notre Dame Ave.,,La Jolla,California,United States,92806,128-555-0173,10/24/1971,Graduate Degree,Skilled Manual,M,M,1,0,0,1,100775
+24266,,Melvin,L,Chander,,4804 Haynes Court,,Milsons Point,New South Wales,Australia,2061,1 (11) 500 555-0120,2/25/1949,Partial High School,Clerical,M,M,1,2,1,2,12333
+18513,,Edwin,,Xu,,3396 El Dorado Way,,Burlingame,California,United States,94010,766-555-0140,11/19/1956,Partial College,Professional,M,M,0,2,0,3,89782
+15779,,Jackson,,Hayes,,7783 Limewood Pl,,Bremerton,Washington,United States,98312,214-555-0114,2/18/1957,Partial College,Professional,M,M,1,0,1,2,88985
+19404,,Nicole,L,Moore,,8108 Goen Road,,Berkeley,California,United States,94704,864-555-0156,8/15/1928,High School,Skilled Manual,F,M,1,2,0,4,28525
+24919,,Carl,D,Shan,,8741 Clark Creek Lane,,Gold Coast,Queensland,Australia,4217,1 (11) 500 555-0178,8/25/1970,Partial High School,Professional,M,M,1,4,5,5,114264
+25534,,Casey,,Sanz,,"12, rue Descartes",,Metz,Moselle,France,57000,1 (11) 500 555-0135,9/18/1935,Graduate Degree,Clerical,M,M,0,0,0,1,46440
+21997,,Dennis,,Xu,,9707 Daffodil Drive,,Warrnambool,Victoria,Australia,3280,1 (11) 500 555-0116,3/14/1958,Bachelors ,Professional,M,M,1,2,4,5,135129
+22909,,Tommy,,Goel,,3249 E Lane,,Hervey Bay,Queensland,Australia,4655,1 (11) 500 555-0147,11/25/1968,Bachelors ,Professional,M,S,0,1,2,2,111180
+22471,,Joel,,Martinez,,"244, rue Descartes",,Lieusaint,Seine et Marne,France,77127,1 (11) 500 555-0148,9/5/1967,Bachelors ,Clerical,M,S,1,0,1,1,55802
+24416,,Oscar,A,Jenkins,,3553 Blenheim Way,,Salem,Oregon,United States,97301,778-555-0161,7/15/1961,High School,Professional,M,M,1,2,3,4,114785
+15444,,Roy,S,Fernandez,,9907 Via Appia,,York,England,United Kingdom,Y03 4TN,1 (11) 500 555-0114,2/9/1962,Graduate Degree,Clerical,M,M,1,0,0,1,42588
+17792,,Bridget,K,Andersen,,4405 Balboa Court,,Newcastle upon Tyne,England,United Kingdom,NT20,1 (11) 500 555-0124,12/22/1967,Bachelors ,Clerical,F,M,1,0,0,0,51688
+15024,,Nathan,,Jones,,845 Lay Brooke Way,,Bendigo,Victoria,Australia,3550,1 (11) 500 555-0115,11/13/1952,High School,Skilled Manual,M,M,1,2,0,3,50644
+19502,,Felicia,,Carlson,,7785 Westchester Pl.,,Milton Keynes,England,United Kingdom,MK8 8DF,1 (11) 500 555-0112,2/3/1962,Bachelors ,Skilled Manual,F,M,1,0,0,1,43161
+22716,,Caleb,,Nelson,,8404 Houston Ct.,,Edmonds,Washington,United States,98020,331-555-0117,7/6/1965,Bachelors ,Management,M,S,1,4,1,3,127103
+28247,,Jonathan,,Adams,,2835 The Trees Drive,,Lake Oswego,Oregon,United States,97034,145-555-0135,9/22/1956,Partial College,Professional,M,S,1,0,1,2,122595
+19031,,Regina,S,Perez,,6469 Climbing Dr.,,London,England,United Kingdom,W10 6BL,1 (11) 500 555-0129,7/13/1957,High School,Professional,F,M,1,2,4,4,131262
+21546,,Cory,B,Garcia,,Nonnendamm 36,,Bottrop,Nordrhein-Westfalen,Germany,46236,1 (11) 500 555-0116,5/25/1948,Partial High School,Skilled Manual,M,M,1,4,1,4,117645
+14224,,Tamara,M,She,,5002 Starflower Dr.,,Lane Cove,New South Wales,Australia,1597,1 (11) 500 555-0175,9/21/1973,Partial College,Management,F,S,1,3,5,5,129980
+14311,,Erik,M,Alvarez,,2348 Polaris Dr.,,Sydney,New South Wales,Australia,1002,1 (11) 500 555-0110,4/14/1966,Graduate Degree,Management,M,S,0,3,0,0,187869
+19762,,Warren,A,Ma,,3910 Fawn Glen Circle,,Melbourne,Victoria,Australia,3000,1 (11) 500 555-0165,6/24/1950,Partial High School,Clerical,M,S,1,2,1,2,24489
+21687,,Sarah,M,Brown,,4684 Ptarmigan Drive,,El Cajon,California,United States,92020,741-555-0122,1/11/1974,Graduate Degree,Skilled Manual,F,S,0,0,0,0,66129
+23968,,Caleb,F,Baker,,5878 Arcadia Pl.,,Oxford,England,United Kingdom,OX1,1 (11) 500 555-0130,12/9/1961,Bachelors ,Manual,M,M,1,0,0,1,18697
+13863,,Kevin,L,Long,,3378 Coldwater Drive,,Berkeley,California,United States,94704,637-555-0121,1/19/1972,Graduate Degree,Skilled Manual,M,M,1,0,0,1,101069
+23557,,Victoria,,Washington,,5636 Barcelona,,Langford,British Columbia,Canada,V9,163-555-0197,10/6/1980,High School,Skilled Manual,F,M,1,2,0,0,31235
+21502,,Morgan,,Clark,,836 Donaleen Cr.,,Grossmont,California,United States,91941,148-555-0165,11/25/1952,High School,Professional,F,S,1,2,1,2,86320
+24611,,Pedro,A,Suarez,,3340 Clifford Court,,Cloverdale,South Australia,Australia,6105,1 (11) 500 555-0147,8/27/1971,Bachelors ,Professional,M,S,0,4,0,0,129588
+23721,,John,M,Clark,,5301 Northwood Drive,,Downey,California,United States,90241,668-555-0134,7/23/1949,Partial College,Professional,M,M,0,0,1,2,99963
+29087,,Steve,,Ye,,6986 Countrywood Ct.,,Newcastle,New South Wales,Australia,2300,1 (11) 500 555-0118,10/16/1950,Partial High School,Clerical,M,M,1,2,1,2,22129
+24387,,Elijah,A,Mitchell,,2878 Spring Water St.,,Bellflower,California,United States,90706,902-555-0192,9/26/1957,Bachelors ,Management,M,M,0,0,1,2,131531
+27056,,Mackenzie,L,James,,9517 Village Road,,Los Angeles,California,United States,90012,157-555-0155,8/15/1959,Partial College,Clerical,F,S,1,1,0,2,43190
+19340,,Renee,,Dominguez,,Haberstr 57,,Münster,Saarland,Germany,48001,1 (11) 500 555-0169,2/15/1966,Bachelors ,Professional,F,M,1,0,0,0,56481
+17030,,Emily,,Russell,,2630 Deermeadow Way,,Los Angeles,California,United States,90012,107-555-0193,2/25/1959,Partial College,Skilled Manual,F,M,1,1,0,1,52936
+21198,,Madison,J,Williams,,921 Ponderosa Way,,Cranbourne,Victoria,Australia,3977,1 (11) 500 555-0199,6/19/1961,Bachelors ,Professional,F,M,1,1,0,1,88847
+22229,,Wyatt,,Perry,,2360 St. George Court,,Burbank,California,United States,91502,435-555-0159,8/8/1956,High School,Professional,M,M,0,2,0,2,90103
+11787,,Jerry,,Nath,,6096 Pheasant Circle,,Burbank,California,United States,91502,271-555-0115,9/5/1972,Graduate Degree,Skilled Manual,M,M,1,0,0,1,99181
+13201,,Nicholas,,Davis,,9181 La Vista Circle,,Sooke,British Columbia,Canada,V0,448-555-0130,8/23/1944,Bachelors ,Management,M,S,1,2,0,4,101826
+19445,,Emma,C,Thompson,,7473 Condor Dr.,,Leeds,England,United Kingdom,LE18,1 (11) 500 555-0135,2/8/1968,High School,Manual,F,M,0,1,2,2,19547
+27605,,Miguel,,Martinez,,5656 Via Delaware,,Sedro Woolley,Washington,United States,98284,455-555-0163,1/22/1957,High School,Professional,M,M,1,2,0,2,88199
+21575,,Justin,,Foster,,9123 Springfield Drive,,Fremont,California,United States,94536,497-555-0196,8/15/1956,Partial College,Professional,M,M,0,2,0,3,125973
+23362,,Nicholas,,Martin,,1918 Terra Granada,,Oak Bay,British Columbia,Canada,V8P,632-555-0140,9/20/1957,Partial High School,Skilled Manual,M,S,1,2,0,2,94227
+28309,,Julie,A,Lal,,5637 Teak Court,,Gold Coast,Queensland,Australia,4217,1 (11) 500 555-0194,4/7/1967,Bachelors ,Professional,F,M,0,0,2,2,108547
+23042,,Riley,M,Blue,,2302 Meadowbrook Dr,,Beverly Hills,California,United States,90210,802-555-0111,6/26/1955,High School,Professional,F,S,1,0,3,4,84979
+13424,,Jasmine,M,Thomas,,3484 Springer Court,,Corvallis,Oregon,United States,97330,337-555-0179,9/20/1964,Partial College,Professional,F,M,1,3,5,5,92736
+15428,,Richard,D,Howard,,5391 Ashford Court,,Spring Valley,California,United States,91977,321-555-0115,5/1/1979,Partial College,Skilled Manual,M,M,1,2,0,0,92200
+16854,,Seth,L,Adams,,903 West I St,,Woodland Hills,California,United States,91364,472-555-0154,8/27/1963,Graduate Degree,Management,M,M,1,3,0,0,175947
+18719,,Alberto,G,Suarez,,7289 Las Quebrados Ln,,Rhodes,New South Wales,Australia,2138,1 (11) 500 555-0182,10/20/1964,Bachelors ,Professional,M,M,1,3,4,4,106313
+16145,,Sydney,,Anderson,,38 First Ave.,,Puyallup,Washington,United States,98371,203-555-0113,10/25/1959,Graduate Degree,Professional,F,S,1,3,5,5,87220
+18981,,Savannah,S,Watson,,1711 La Mar Ct,,Palo Alto,California,United States,94303,713-555-0111,4/27/1944,Bachelors ,Management,F,M,1,2,0,4,89193
+14422,,Cara,,Lu,,Räuscherweg 124,,Stuttgart,Saarland,Germany,70511,1 (11) 500 555-0154,11/6/1958,Bachelors ,Management,F,S,0,4,3,3,141437
+11075,,Felicia,L,Jimenez,,786 Eastgate Ave,,Bendigo,Victoria,Australia,3550,1 (11) 500 555-0165,11/16/1957,High School,Professional,F,S,1,2,0,2,99137
+25056,,Wayne,E,Black,,1366 Hunt Dr,,Hobart,Tasmania,Australia,7001,1 (11) 500 555-0187,2/19/1958,Bachelors ,Management,M,M,1,1,1,1,130160
+11954,,Joseph,M,Garcia,,1220 Bradford Way,,Glendale,California,United States,91203,594-555-0120,8/17/1975,Partial College,Skilled Manual,M,M,1,2,0,0,91218
+14334,,Patrick,M,Murphy,,746 Whiteaben Drive,,Walla Walla,Washington,United States,99362,276-555-0144,7/25/1980,High School,Skilled Manual,M,M,0,2,0,0,58840
+13029,,Jennifer,,Foster,,4581 Coggins Drive,,Port Orchard,Washington,United States,98366,234-555-0149,9/5/1977,Partial College,Skilled Manual,F,S,0,1,0,0,39327
+20426,,Johnathan,D,Perez,,6211 Piedmont Dr,,Hawthorne,Queensland,Australia,4171,1 (11) 500 555-0120,10/4/1952,High School,Skilled Manual,M,M,1,2,0,3,39790
+18040,,Curtis,L,Liu,,"19, rue de Terre Neuve",,Suresnes,Hauts de Seine,France,92150,1 (11) 500 555-0171,11/7/1973,Partial High School,Manual,M,M,0,2,0,0,16225
+22927,,Jon,,Guo,,895 Sandalwood Drive,,Malabar,New South Wales,Australia,2036,1 (11) 500 555-0111,2/3/1963,Bachelors ,Professional,M,S,0,2,2,3,101466
+21139,,Alex,C,Adams,,237 Bellwood Dr.,,Lake Oswego,Oregon,United States,97034,346-555-0124,6/24/1962,Partial College,Skilled Manual,M,M,1,1,0,1,101627
+13991,,Jack,L,Hayes,,4510 Ten Penny Lane,,Sedro Woolley,Washington,United States,98284,534-555-0131,3/8/1978,Partial College,Skilled Manual,M,M,1,1,0,0,53178
+16118,,James,A,Wright,,8478 Eastgate Ave.,,Oakland,California,United States,94611,726-555-0143,9/3/1962,Bachelors ,Professional,M,M,0,1,0,1,91546
+19286,,Kaitlyn,O,Butler,,Hunzinger Allee 292,,Kassel,Hessen,Germany,34117,1 (11) 500 555-0164,3/2/1960,Bachelors ,Clerical,F,M,1,0,0,3,53418
+19195,,Darren,A,Romero,,5038 Kenwal Rd,,Birmingham,England,United Kingdom,B29 6SL,1 (11) 500 555-0150,5/26/1970,Partial College,Clerical,M,S,1,0,2,2,52622
+17826,,Paige,L,Morgan,,"2, impasse Notre-Dame",,Lille,Nord,France,59000,1 (11) 500 555-0115,6/2/1976,Partial High School,Manual,F,S,1,2,0,0,24282
+25842,,Cole,,Brooks,,4186 Silver Oaks Pl.,,Newport Beach,California,United States,92625,502-555-0162,4/10/1939,Graduate Degree,Management,M,M,1,2,0,3,129840
+23552,,Caleb,,Russell,,1301 Northstar Drive,,Oak Bay,British Columbia,Canada,V8P,230-555-0124,3/21/1976,High School,Skilled Manual,M,S,1,2,0,0,46556
+21716,,Gerald,C,Sara,,339 Norcross Lane,,Burien,Washington,United States,98168,980-555-0176,3/2/1958,Graduate Degree,Skilled Manual,M,M,0,0,0,4,131369
+19332,,Kelvin,,Alan,,Alte Landstr 9,,Duesseldorf,Hessen,Germany,40605,1 (11) 500 555-0180,7/18/1965,Bachelors ,Skilled Manual,M,M,1,2,1,1,66816
+24180,,Arturo,T,Jai,,Zeiter Weg 9963,,Berlin,Hamburg,Germany,10210,1 (11) 500 555-0144,4/16/1943,Partial College,Manual,M,S,1,0,0,2,20171
+13039,,Trisha,E,Ma,,1660 Stonyhill Circle,,Coronado,California,United States,92118,845-555-0181,8/20/1980,Partial College,Skilled Manual,F,S,0,2,0,0,22200
+22770,,Chloe,L,Morgan,,555 Moretti Drive,,Oakland,California,United States,94611,555-555-0111,11/25/1949,Partial College,Professional,F,M,1,2,1,4,81430
+26480,,Jacqueline,R,Patterson,,5103 Farm Bureau Rd,,Novato,California,United States,94947,499-555-0128,6/22/1945,Partial High School,Clerical,F,S,0,3,0,5,28731
+20894,,Alyssa,L,Thomas,,"48, place de la Concorde",,Dunkerque,Nord,France,59140,1 (11) 500 555-0112,9/21/1966,High School,Manual,F,S,1,0,2,2,21441
+21617,,Jennifer,,Miller,,2028 Mendocino Drive,,Corvallis,Oregon,United States,97330,414-555-0153,2/27/1966,Graduate Degree,Professional,F,S,0,0,0,0,95345
+26094,,Sarah,,Butler,,7292 Preakness Court,,Oakland,California,United States,94611,990-555-0127,6/11/1955,High School,Professional,F,M,0,2,0,2,82747
+12832,,Douglas,J,Prasad,,Platz des Landtags 505,,Berlin,Saarland,Germany,12171,1 (11) 500 555-0153,4/21/1964,High School,Manual,M,S,1,0,3,3,21907
+20308,,Pieter,L,Uittenbogaard,,9722 Sudden Loop,,Lemon Grove,California,United States,91945,517-555-0145,10/26/1979,Partial College,Skilled Manual,F,M,1,1,0,0,54052
+20848,,Vincent,,Liu,,8184 N. Spoonwood Court,,Peterborough,England,United Kingdom,PB12,1 (11) 500 555-0113,6/17/1958,Bachelors ,Clerical,M,M,1,0,0,1,44895
+29389,,Thomas,P,Phillips,,"387, chaussée de Tournai",,Paris,Seine (Paris),France,75007,1 (11) 500 555-0110,2/18/1966,Bachelors ,Professional,M,M,1,0,0,0,74598
+13238,,John,C,Williams,,5977 C Wharton Way,,Torrance,California,United States,90505,228-555-0143,10/26/1948,Bachelors ,Management,M,M,1,2,1,4,89103
+23824,,Edward,,Carter,,771 Northridge Drive,# 495,Downey,California,United States,90241,143-555-0165,10/13/1973,Graduate Degree,Skilled Manual,M,M,1,0,0,1,90151
+26484,,Fernando,E,Patterson,,2761 Clyde Street,,Bellflower,California,United States,90706,980-555-0146,4/3/1946,High School,Professional,M,S,0,3,0,5,57073
+27417,,Edwin,,She,,3515 Sutton Circle,,Coronado,California,United States,92118,187-555-0111,1/13/1948,Bachelors ,Management,M,M,1,0,1,2,102537
+11246,,Latasha,,Rubio,,Alderstr 7690,,Hamburg,Hamburg,Germany,20354,1 (11) 500 555-0178,10/9/1956,High School,Professional,F,M,0,4,4,4,136970
+13765,,Jaime,,Shen,,5170 Isabel Dr,,London,England,United Kingdom,W1N 9FA,1 (11) 500 555-0113,8/11/1968,Bachelors ,Clerical,M,M,1,0,0,1,64698
+13964,,Jasmine,,Lewis,,9679 Shakespeare Dr.,,Sydney,New South Wales,Australia,1002,1 (11) 500 555-0185,2/18/1966,Bachelors ,Professional,F,S,0,0,0,0,114183
+17735,,Connor,,Yang,,5486 Maria Vega Court,,Townsville,Queensland,Australia,4810,1 (11) 500 555-0191,5/24/1977,High School,Manual,M,S,0,0,1,1,26952
+13620,,Damien,M,Ye,,9167 Jam Way,,Coffs Harbour,New South Wales,Australia,2450,1 (11) 500 555-0178,2/1/1976,Bachelors ,Professional,M,S,0,3,0,0,98769
+20010,,Jackson,S,Carter,,1233 Wesley Ct.,,San Diego,California,United States,92102,433-555-0112,12/16/1966,Graduate Degree,Professional,M,M,1,0,0,4,129510
+28558,,Dawn,T,Stone,,Im Himmelsweg 26,,Solingen,Nordrhein-Westfalen,Germany,42651,1 (11) 500 555-0154,1/3/1972,Partial High School,Manual,F,S,0,2,0,0,22746
+16329,,Jamie,C,Ye,,2423 Brookview Dr.,,London,England,United Kingdom,SE1 8HL,1 (11) 500 555-0165,12/13/1973,Partial High School,Manual,F,S,0,2,0,0,12587
+26508,,Marcus,F,Ross,,3283 Terra Granda,,Issaquah,Washington,United States,98027,448-555-0176,7/14/1949,Partial College,Professional,M,M,1,2,1,2,108290
+19179,,Gloria,V,Sanz,,"12, avenue du Port",,Sèvres,Hauts de Seine,France,92310,1 (11) 500 555-0193,5/23/1972,Partial High School,Manual,F,S,0,2,0,0,24129
+17639,,Heather,,Ma,,9021 Santa Monica Drive,,London,England,United Kingdom,SE1 8HL,1 (11) 500 555-0143,4/7/1972,Partial College,Clerical,F,S,1,0,2,2,34311
+21269,,Blake,,Clark,,5263 Etcheverry Dr,,Berkeley,California,United States,94704,854-555-0186,5/17/1968,Bachelors ,Management,M,S,1,1,4,4,127154
+18763,,Julie,E,Chander,,95 Honey Trail Lane,,Malabar,New South Wales,Australia,2036,1 (11) 500 555-0156,2/24/1938,Bachelors ,Management,F,M,0,2,0,2,54097
+28124,,Mackenzie,E,Kelly,,9603 Houston Ct,,Daly City,California,United States,94015,300-555-0149,7/2/1975,High School,Skilled Manual,F,M,1,2,0,0,61317
+13810,,Vanessa,,Barnes,,494 North Spoonwood Court,Unit 1e,Watford,England,United Kingdom,WA3,1 (11) 500 555-0187,4/8/1964,Bachelors ,Skilled Manual,F,M,1,0,0,1,39325
+11895,,Dustin,,Chander,,5553 Cash Avenue,,Gold Coast,Queensland,Australia,4217,1 (11) 500 555-0196,7/21/1969,Graduate Degree,Management,M,M,1,0,0,1,136224
+20684,,Olivia,A,Lee,,4778 Geary Road,,La Jolla,California,United States,92806,725-555-0167,1/28/1969,Graduate Degree,Professional,F,M,1,0,0,3,108172
+28288,,Marco,A,Srini,,4861 Via Valencia,,Concord,California,United States,94519,305-555-0157,9/1/1960,Partial College,Professional,M,S,1,4,3,3,161700
+24951,,Jeremy,D,Ward,,4605 Merced Circle,,San Diego,California,United States,92102,159-555-0116,9/25/1943,Bachelors ,Management,M,M,1,2,0,4,100856
+15517,,Thomas,C,Edwards,,5322 Mitchell Canyon Rd.,,Santa Monica,California,United States,90401,986-555-0119,1/22/1969,Graduate Degree,Professional,M,S,1,0,0,3,124056
+21986,,Kristi,l,Chapman,,1312 Creekside Dr.,,Findon,South Australia,Australia,5023,1 (11) 500 555-0132,6/11/1960,Partial College,Skilled Manual,F,S,1,1,0,1,70908
+23317,,Beth,K,Martin,,3229 Pembroke Dr.,,Hobart,Tasmania,Australia,7001,1 (11) 500 555-0164,11/14/1948,Partial High School,Clerical,F,M,1,2,1,2,21652
+26289,,Samuel,,Simmons,,7318 Lavene Way,,Burlingame,California,United States,94010,991-555-0133,2/16/1973,Graduate Degree,Skilled Manual,M,M,1,0,0,1,65845
+19661,,Nathaniel,A,Cox,,4866 Sequoia Woods Pl.,,Metchosin,British Columbia,Canada,V9,432-555-0179,2/25/1968,Bachelors ,Management,M,S,1,1,4,4,119527
+20204,,Renee,,Carlson,,845 Olive Ave,,Berkeley,California,United States,94704,626-555-0119,7/28/1959,Graduate Degree,Professional,F,M,1,0,0,2,114647
+19203,,Darren,E,Navarro,,3798 Vine Hill Way,,Beverly Hills,California,United States,90210,902-555-0168,6/13/1953,High School,Manual,M,S,1,2,0,2,18728
+19347,,Alvin,A,Zhao,,1312 Garland Dr.,,London,England,United Kingdom,SW8 4BG,1 (11) 500 555-0175,9/4/1965,Bachelors ,Skilled Manual,M,M,1,0,0,1,61458
+22444,,Colin,,Xie,,Hans-Rosenthal-Platz 4243,,Frankfurt,Bayern,Germany,91480,1 (11) 500 555-0139,2/27/1969,Graduate Degree,Clerical,M,S,0,0,0,0,76742
+16476,,Shawn,J,Xie,,"5, avenue de Norvege",,Paris,Seine (Paris),France,75012,1 (11) 500 555-0145,12/11/1973,Partial College,Clerical,M,S,0,1,0,0,42773
+27385,,Jonathon,A,Ramos,,4001 Fawn Glen Circle,,Burbank,California,United States,91502,783-555-0118,10/19/1939,Graduate Degree,Management,M,M,0,2,0,3,101774
+24689,,Sandra,,Ye,,301 Sandy Ln.,,Berks,England,United Kingdom,SL4 1RH,1 (11) 500 555-0125,1/26/1974,Partial College,Clerical,F,M,0,1,0,0,32055
+17455,,Dylan,O,Hayes,,8958 Carleton Street,,Concord,California,United States,94519,909-555-0115,5/18/1960,Partial College,Professional,M,M,1,4,3,3,148403
+21160,,April,,Xie,,1343 Apple Drive,,Chula Vista,California,United States,91910,413-555-0177,11/24/1959,Graduate Degree,Professional,F,M,1,0,0,3,120782
+22073,,Timothy,L,Sanders,,8838 Kirker Pass Road,,Bellingham,Washington,United States,98225,161-555-0179,12/25/1962,Partial College,Professional,M,M,1,4,4,5,123075
+14626,,Jesse,,Gray,,6161 Teakwood Dr.,,Langford,British Columbia,Canada,V9,992-555-0173,5/24/1961,High School,Skilled Manual,M,M,1,3,3,4,50476
+16626,,Nathaniel,E,Morgan,,2496 Greendell Pl.,,Townsville,Queensland,Australia,4810,1 (11) 500 555-0118,7/18/1972,High School,Management,M,S,1,3,5,5,117509
+27546,,Jackson,A,Ross,,5473 Sunshine,,Lakewood,California,United States,90712,897-555-0173,5/14/1960,High School,Skilled Manual,M,S,1,2,2,4,48789
+24615,,Dwayne,C,Ortega,,8101 Little Dr.,,Melbourne,Victoria,Australia,3000,1 (11) 500 555-0153,5/19/1971,Partial High School,Professional,M,M,1,4,5,5,167042
+26700,,Sydney,,Ramirez,,3925 North 39th Street,,Haney,British Columbia,Canada,V2W 1W2,141-555-0169,12/3/1962,Partial College,Professional,F,S,1,2,4,5,95787
+17676,,Eugene,,Yang,,2141 Banking Road,,Bellflower,California,United States,90706,196-555-0178,6/3/1957,High School,Skilled Manual,M,M,0,2,0,2,58298
+24710,,Brandy,,Malhotra,,Heiderplatz 789,Leiter der Abteilung,Berlin,Hessen,Germany,13441,1 (11) 500 555-0121,6/14/1972,Bachelors ,Skilled Manual,F,M,1,1,1,1,38101
+15042,,Bryant,L,Perez,,1502 Marion Ct.,,Coffs Harbour,New South Wales,Australia,2450,1 (11) 500 555-0189,1/21/1977,Partial College,Manual,M,S,0,0,0,0,25281
+14318,,Seth,R,Rogers,,1440 Azores Circle,,Rockhampton,Queensland,Australia,4700,1 (11) 500 555-0139,10/18/1962,Partial College,Skilled Manual,M,M,1,2,4,5,85400
+22763,,Rebecca,,Gonzalez,,2198 Clay Road,,Seattle,Washington,United States,98104,622-555-0164,8/10/1948,Partial College,Professional,F,S,1,1,1,2,77006
+12787,,Katelyn,E,Cook,,7878 Delacy Ave.,,Puyallup,Washington,United States,98371,994-555-0172,10/21/1956,Graduate Degree,Skilled Manual,F,S,1,0,0,5,91950
+15416,,Edward,A,Barnes,,3043 Gregory Dr.,,Milwaukie,Oregon,United States,97222,165-555-0162,2/19/1940,Graduate Degree,Management,M,M,1,3,3,3,155900
+20222,,Melissa,M,Morgan,,8167 Grant St,,Coffs Harbour,New South Wales,Australia,2450,1 (11) 500 555-0144,12/16/1967,Bachelors ,Professional,F,M,0,3,5,5,74686
+17276,,Elijah,S,Jenkins,,2874 Via Del Verdes,,Marysville,Washington,United States,98270,512-555-0128,12/2/1929,Graduate Degree,Management,M,S,1,1,0,1,83111
+14082,,Johnny,L,Jai,,1289 Mt. Dias Blv.,,Beaverton,Oregon,United States,97005,861-555-0113,5/6/1980,High School,Skilled Manual,M,S,0,2,0,0,51487
+15204,,Deanna,S,Gonzalez,,6764 Eastgate,,Matraville,New South Wales,Australia,2036,1 (11) 500 555-0186,7/22/1967,Bachelors ,Professional,F,M,1,0,4,4,102872
+17867,,Stephanie,,Sanchez,,9111 Almondwood Drive,,Sooke,British Columbia,Canada,V0,934-555-0160,1/6/1967,Partial College,Skilled Manual,F,S,0,1,0,0,45670
+20455,,Bruce,C,Blanco,,5430 Moretti Dr.,,Seaford,Victoria,Australia,3198,1 (11) 500 555-0147,12/5/1958,Bachelors ,Management,M,M,1,4,1,4,163810
+20741,,Jocelyn,,Foster,,7943 C. Mounthood,,Lemon Grove,California,United States,91945,798-555-0178,9/26/1953,High School,Manual,F,S,1,2,0,2,15633
+12806,,Ronnie,L,Zeng,,Nonnendamm 123,,München,Hamburg,Germany,80074,1 (11) 500 555-0115,3/18/1968,Graduate Degree,Clerical,M,M,1,0,0,0,66605
+23296,,Molly,C,Mehta,,3986 Liana Lane,,Bellflower,California,United States,90706,156-555-0191,12/15/1972,Partial College,Clerical,F,S,1,2,4,4,34024
+27582,,Latoya,A,Nath,,1362 Geary Road,,Brisbane,Queensland,Australia,4000,1 (11) 500 555-0183,3/12/1970,Bachelors ,Professional,F,S,0,0,0,2,107930
+23834,,Ethan,H,Long,,6104 North Civic Drive,,Renton,Washington,United States,98055,910-555-0185,6/6/1972,Graduate Degree,Skilled Manual,M,S,1,0,0,1,102933
+13690,,Claudia,,Gao,,4179 Green St.,,W. York,England,United Kingdom,BD1 4SJ,1 (11) 500 555-0179,2/17/1972,Partial High School,Manual,F,S,0,2,0,0,10506
+23893,,Zachary,J,Clark,,7041 Notre Dame Avenue,,Metchosin,British Columbia,Canada,V9,146-555-0164,3/1/1965,Bachelors ,Skilled Manual,M,M,1,3,3,3,63828
+16071,,Taylor,,Rodriguez,,5877 Providence Dr.,,Haney,British Columbia,Canada,V2W 1W2,205-555-0111,1/10/1971,Graduate Degree,Professional,F,M,1,0,0,1,90631
+11645,,Gabriella,M,Turner,,9976 Manila Avenue,,Salem,Oregon,United States,97301,131-555-0142,10/19/1969,Bachelors ,Skilled Manual,F,S,1,0,2,2,65067
+11770,,Peter,T,Nara,,6489 Kentucky Drive,,Ballard,Washington,United States,98107,244-555-0113,8/23/1973,Graduate Degree,Skilled Manual,M,S,0,0,0,0,82668
+24562,,Ricky,,Rubio,,Welt Platz 123,,Hamburg,Hamburg,Germany,20354,1 (11) 500 555-0185,10/12/1954,Partial College,Professional,M,S,1,4,4,4,153065
+24962,,Jonathan,,Jai,,413 West Road,,Lynnwood,Washington,United States,98036,194-555-0143,10/26/1947,High School,Professional,M,M,1,1,1,2,58009
+18175,,Carrie,E,Hernandez,,"42, impasse Ste-Madeleine",,Paris,Seine (Paris),France,75007,1 (11) 500 555-0114,5/16/1950,High School,Management,F,M,0,3,1,4,98788
+13459,,Devin,G,Foster,,4703 Westbury Dr.,,San Diego,California,United States,92102,227-555-0182,7/17/1955,High School,Professional,M,M,0,2,0,2,95155
+15037,,Jaime,L,Raji,,1679 Bay View Drive,,Rhodes,New South Wales,Australia,2138,1 (11) 500 555-0160,8/23/1979,Bachelors ,Clerical,M,S,1,0,0,0,36866
+18542,,Dustin,E,She,,4627 Lakefield Place,,Burien,Washington,United States,98168,779-555-0113,7/3/1943,Bachelors ,Management,M,M,1,2,0,5,130167
+25825,,Tammy,A,Fernandez,,1899 Rosey View Drive,,Springwood,New South Wales,Australia,2777,1 (11) 500 555-0135,6/7/1972,Bachelors ,Professional,F,M,1,3,0,0,101828
+16610,,Sydney,,Clark,,9864 Bates Court,,Coffs Harbour,New South Wales,Australia,2450,1 (11) 500 555-0157,6/23/1974,Bachelors ,Professional,F,M,0,4,0,0,85140
+25983,,Jack,J,Alexander,,5619 Gathering Court,,Oregon City,Oregon,United States,97045,204-555-0126,8/22/1963,Bachelors ,Professional,M,M,0,1,0,0,103679
+22481,,Erik,A,Ortega,,Nollendorfplatz 4662,,Stuttgart,Saarland,Germany,70452,1 (11) 500 555-0131,5/26/1966,Bachelors ,Skilled Manual,M,M,1,1,1,1,79931
+18277,,Terry,,Lal,,2241 V St.,,Hawthorne,Queensland,Australia,4171,1 (11) 500 555-0172,9/14/1962,Bachelors ,Professional,M,M,1,1,0,1,97900
+22983,,Maria,G,Bennett,,4103 Valley Blvd.,,Haney,British Columbia,Canada,V2W 1W2,211-555-0113,6/15/1979,Partial High School,Clerical,F,S,1,2,0,0,41737
+26358,,Mason,C,Gonzalez,,Hüttenstr 7005,Kreditorenbuchhaltung,Paderborn,Nordrhein-Westfalen,Germany,33098,1 (11) 500 555-0178,8/10/1926,High School,Manual,M,S,0,1,0,2,24797
+24727,,Mallory,S,Jimenez,,1506 Grading Way,#62,Burien,Washington,United States,98168,319-555-0193,3/3/1974,Partial College,Clerical,F,M,1,2,3,3,43483
+11026,,Harold,,Sai,,8211 Leeds Ct.,,Goulburn,New South Wales,Australia,2580,1 (11) 500 555-0131,4/3/1946,Partial College,Clerical,M,S,0,2,0,2,61905
+19244,,Sebastian,,Ward,,3717 Greenway Drive,,San Francisco,California,United States,94109,165-555-0113,6/8/1973,Graduate Degree,Skilled Manual,M,M,1,0,0,1,90254
+19644,,Gloria,,Gill,,5126 La Corte Bonita,,Chula Vista,California,United States,91910,988-555-0144,9/20/1977,Partial High School,Clerical,F,S,1,2,0,0,32842
+21425,,Carlos,,Hall,,8306 Sun Tree Lane,,National City,California,United States,91950,511-555-0178,6/27/1956,High School,Professional,M,M,0,2,0,2,93545
+21843,,Erica,F,He,,Buergermeister-ulrich-str 433,,Leipzig,Nordrhein-Westfalen,Germany,4139,1 (11) 500 555-0133,10/3/1946,Bachelors ,Management,F,S,1,4,4,4,154212
+26262,,Hannah,C,Thompson,,6049 Dalis Dr.,,Lynnwood,Washington,United States,98036,754-555-0165,6/18/1956,Partial High School,Clerical,F,S,0,2,0,3,29745
+13474,,Elizabeth,L,Hall,,2934 Sycamore Drive,,Shawnee,British Columbia,Canada,V8Z 4N5,366-555-0193,6/24/1954,Partial High School,Skilled Manual,F,M,0,2,0,2,73449
+19723,,Olivia,,Russell,,2809 Via Montana,,Colma,California,United States,94014,556-555-0118,8/9/1953,Graduate Degree,Management,F,M,1,2,0,3,90048
+26388,,Wayne,L,Jai,,"225, rue Marbeuf",,Cergy,Val d'Oise,France,95000,1 (11) 500 555-0151,8/26/1955,High School,Professional,M,M,1,2,1,2,112275
+23966,,Grant,R,Sharma,,2831 Viking Drive,,Lancaster,England,United Kingdom,LA1 1LN,1 (11) 500 555-0168,3/3/1962,Graduate Degree,Manual,M,M,0,0,0,1,41630
+14604,,Nicholas,D,Rodriguez,,6652 Deerwood Court,,Victoria,British Columbia,Canada,V8V,367-555-0116,10/2/1965,Bachelors ,Skilled Manual,M,M,1,3,3,3,106947
+16371,,Caleb,S,Diaz,,5238 MountainAire Parkway,,Concord,California,United States,94519,604-555-0176,3/14/1956,Partial College,Clerical,M,M,1,1,0,1,51574
+23374,,Emma,C,Gray,,7090 C. Mount Hood,,Santa Cruz,California,United States,95062,681-555-0113,11/13/1962,Bachelors ,Professional,F,M,1,1,0,1,88337
+19349,,Warren,M,Anand,,Kappellweg 613,,Essen,Hamburg,Germany,45001,1 (11) 500 555-0134,8/12/1964,Partial College,Clerical,M,S,1,2,2,2,54329
+28271,,Sean,,Gonzalez,,5627 Imperial Dr.,,Beverly Hills,California,United States,90210,581-555-0113,6/4/1955,High School,Professional,M,S,1,2,0,2,88980
+13008,,Alberto,J,Muñoz,,1962 Race Road,,Geelong,Victoria,Australia,3220,1 (11) 500 555-0148,7/9/1965,Bachelors ,Professional,M,M,1,1,3,3,98544
+25713,,Latasha,M,Gill,,5267 Mt. Tri-state Court,,Sunbury,Victoria,Australia,3429,1 (11) 500 555-0121,3/19/1979,Bachelors ,Clerical,F,S,1,0,0,0,37175
+15918,,Roberto,,Ruiz,,2866 Reisling Court,,Burien,Washington,United States,98168,157-555-0190,2/3/1952,Partial College,Professional,M,S,1,2,2,5,94967
+22052,,Zachary,,Butler,,4050 Canyon Road,,Bellflower,California,United States,90706,193-555-0178,5/8/1968,Graduate Degree,Management,M,M,1,3,1,2,183573
+29163,,Mason,R,Murphy,,4977 Candlestick Dr.,,Portland,Oregon,United States,97205,653-555-0175,2/6/1959,Bachelors ,Professional,M,S,0,0,3,4,99932
+14619,,Nathaniel,L,Sanders,,1911 Pinecrest Dr.,,Issaquah,Washington,United States,98027,891-555-0140,2/26/1963,Graduate Degree,Professional,M,M,1,0,2,3,123881
+23098,,Pedro,E,Rubio,,5206 Damascus Loop,,Coffs Harbour,New South Wales,Australia,2450,1 (11) 500 555-0117,1/16/1950,Partial College,Clerical,M,S,0,2,0,3,49968
+18672,,Anthony,,Lewis,,1877 Turner Dr.,,Torrance,California,United States,90505,855-555-0132,10/7/1958,Graduate Degree,Skilled Manual,M,M,1,0,0,5,126192
+14555,,Jodi,D,Kumar,,"66, rue Georges-Clémenceau",,Croix,Nord,France,59170,1 (11) 500 555-0135,11/14/1942,Partial College,Manual,F,S,1,1,0,2,15751
+18547,,Ethan,L,Johnson,,4049 Hale Court,,San Carlos,California,United States,94070,621-555-0123,3/6/1972,Graduate Degree,Professional,M,M,1,0,0,2,113543
+26848,,Alisha,,Rai,,7628 Beech Ct,,Kirkby,England,United Kingdom,KB9,1 (11) 500 555-0140,11/17/1964,High School,Manual,F,M,1,0,3,3,22332
+13085,,Daniel,T,Harris,,9605 Mcelroy Court,,Bremerton,Washington,United States,98312,101-555-0119,3/19/1974,Partial High School,Skilled Manual,M,S,1,2,0,0,57638
+27006,,Shane,,Madan,,"95, avenue des Ternes",,Colombes,Hauts de Seine,France,92700,1 (11) 500 555-0173,3/7/1971,High School,Manual,M,S,1,1,0,0,35536
+11799,,Jessie,B,Wang,,4593 Camino Peral,,Burien,Washington,United States,98168,527-555-0124,9/13/1969,Bachelors ,Skilled Manual,M,M,1,0,2,2,67849
+25712,,Brent,R,He,,1340 Starlyn Dr.,,Cranbourne,Victoria,Australia,3977,1 (11) 500 555-0138,8/16/1979,Bachelors ,Clerical,M,S,1,0,0,0,38823
+17931,,Jeffery,,Zhao,,"7, rue des Ecoles",,Saint Ouen,Somme,France,80610,1 (11) 500 555-0113,3/19/1961,Partial College,Manual,M,M,1,0,1,1,23138
+26425,,Janelle,,Malhotra,,8611 Park Lane Circle,,Lane Cove,New South Wales,Australia,1597,1 (11) 500 555-0155,11/12/1976,Bachelors ,Professional,F,S,0,3,0,0,70822
+26669,,Curtis,E,Zeng,,4089 Frisbie Court,,Hawthorne,Queensland,Australia,4171,1 (11) 500 555-0168,5/4/1967,Bachelors ,Professional,M,M,1,4,5,5,103538
+20126,,Seth,A,Carter,,6630 Cook Pk.,,Santa Cruz,California,United States,95062,119-555-0147,10/17/1971,Graduate Degree,Skilled Manual,M,M,1,0,0,1,112338
+21303,,Sydney,L,Jenkins,,7521 Mount Aire Parkway,,Torrance,California,United States,90505,334-555-0156,8/14/1955,High School,Professional,F,M,0,2,0,2,69806
+19054,,Arthur,M,Alonso,,8564 Redhead Way,,Milton Keynes,England,United Kingdom,MK8 8ZD,1 (11) 500 555-0173,6/21/1954,High School,Professional,M,S,0,4,4,4,157010
+11724,,Jason,,Carter,,4848 Azalea Ave.,,Shawnee,British Columbia,Canada,V9B 5T2,234-555-0170,4/15/1967,Partial College,Skilled Manual,M,S,0,1,0,0,78894
+15146,,Adriana,M,Sara,,6358 Parkview Court,,Lane Cove,New South Wales,Australia,1597,1 (11) 500 555-0195,6/12/1971,High School,Management,F,M,1,4,5,5,94731
+26355,,Darren,,Madan,,"2080, quai de Grenelle",,Les Ulis,Essonne,France,91940,1 (11) 500 555-0180,8/7/1925,High School,Manual,M,M,0,1,0,2,30347
+15759,,Erin,L,Brooks,,7253 Mt. Alpine Pl,,Beaverton,Oregon,United States,97005,211-555-0184,11/7/1973,Bachelors ,Management,F,M,0,1,0,0,112809
+17373,,Ryan,M,Gonzales,,3708 Lenox Ct,,Metchosin,British Columbia,Canada,V9,477-555-0168,6/28/1978,High School,Skilled Manual,M,M,0,2,0,0,46949
+25648,,Michele,,Carlson,,"9967, rue Marbeuf",,Saint-Denis,Seine Saint Denis,France,93400,1 (11) 500 555-0118,6/19/1963,Partial College,Clerical,F,M,1,3,2,2,48235
+27475,,Alexa,,Bailey,,4072 South Hampton Road,,Olympia,Washington,United States,98501,901-555-0158,6/19/1977,Partial College,Skilled Manual,F,S,1,1,0,0,51214
+13457,,Eric,,Henderson,,4723 Zion Avenue,,W. Linn,Oregon,United States,97068,249-555-0189,2/5/1955,High School,Professional,M,M,0,2,0,2,112516
+26694,,Aaron,J,Hughes,,3566 Matterhorn Ct,,Bellingham,Washington,United States,98225,622-555-0113,6/20/1956,Partial College,Professional,M,S,1,2,0,3,112679
+26434,,Mallory,,Romero,,5995 Olivera Rd.,,Sydney,New South Wales,Australia,1002,1 (11) 500 555-0148,8/23/1974,Bachelors ,Professional,F,S,1,3,0,0,110475
+27693,,Tyrone,K,Alvarez,,7925 Meadow Lane,,Milsons Point,New South Wales,Australia,2061,1 (11) 500 555-0114,9/26/1967,Bachelors ,Professional,M,S,1,0,4,4,129683
+28779,,Morgan,E,Reed,,7281 Barberry Court,,Sooke,British Columbia,Canada,V0,618-555-0184,4/15/1955,High School,Clerical,F,S,0,1,0,1,40632
+13866,,Mya,,Butler,,6049 Flora Ave,,San Diego,California,United States,92102,957-555-0128,8/16/1972,Graduate Degree,Professional,F,M,1,0,0,2,88226
+23874,,Abigail,J,Cook,,6703 Corte Poquito,,Beaverton,Oregon,United States,97005,378-555-0119,4/14/1967,Bachelors ,Skilled Manual,F,S,1,1,2,2,28224
